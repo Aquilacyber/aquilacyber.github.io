@@ -7,7 +7,7 @@
 
 # Table of Contents
 
- * [FIRST STEPS](Wiki/First-Steps.md)
+ * [FIRST STEPS](https://aquilacyber.github.io/Wiki/#First-Steps.md)
  * [Free Training](https://aquilacyber.github.io/Wiki/Free-Training/)
 
 1. [Getting Started with with Open Source Security](wiki/Getting-Started-in-Security)
