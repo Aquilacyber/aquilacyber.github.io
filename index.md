@@ -7,8 +7,8 @@
 
 # Table of Contents
 
- * [FIRST STEPS](First-Steps.md)
- * [Free Training](Free-Training.md)
+ * [FIRST STEPS](Wiki/First-Steps.md)
+ * [Free Training](Wiki/Free-Training/)
 
 1. [Getting Started with with Open Source Security](wiki/Getting-Started-in-Security)
     * [Security Tutorials & Resources](Security-Tutorials-and-Resources.md)
