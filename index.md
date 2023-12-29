@@ -13,7 +13,7 @@
 1. [Getting Started with with Open Source Security](wiki/Getting-Started-in-Security)
     * [Security Tutorials & Resources](wiki/Getting-Started-in-Security/Security-Tutorials-and-Resources.md)
     * [Security Certifications](Security-Certifications.md)
-    * [Books](books.md)
+    * [Books](wiki/Getting-Started-in-Security/books.md)
     * [Playbooks](playbooks.md)
     * [YouTube Tutorials](youtube-tutorials.md)
 
