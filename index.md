@@ -7,15 +7,15 @@
 
 # Table of Contents
 
- * [FIRST STEPS](#First Steps)
- * [Free Training](#Free Training)
+ * [FIRST STEPS](First-Steps.md)
+ * [Free Training](Free-Training.md)
 
-1. [Getting Started with with Open Source Security](https://github.com/mikeroyal/Open-Source-Security-Guide#getting-started-with-open-source-security)
-    * [Security Tutorials & Resources](#Security-Tutorials--Resources)
-    * [Security Certifications](#Security-Certifications)
-    * [Books](#books)
-    * [Playbooks](#playbooks)
-    * [YouTube Tutorials](#youtube-tutorials)
+1. [Getting Started with with Open Source Security](wiki/Getting-Started-in-Security)
+    * [Security Tutorials & Resources](Security-Tutorials-and-Resources.md)
+    * [Security Certifications](Security-Certifications.md)
+    * [Books](books.md)
+    * [Playbooks](playbooks.md)
+    * [YouTube Tutorials](youtube-tutorials.md)
 
 2. [Security Standards, Frameworks and Benchmarks](https://github.com/mikeroyal/Open-Source-Security-Guide#security-standards-frameworks-and-benchmarks)
     * [Security Benchmarks](#Security-Benchmarks)
