@@ -8,7 +8,7 @@
 # Table of Contents
 
  * [FIRST STEPS](Wiki/#First-Steps.md)
- * [Free Training](https://aquilacyber.github.io/Wiki/Free-Training)
+ * [Free Training](https://aquilacyber.github.io/Wiki/Free-Training/)
 
 1. [Getting Started with with Open Source Security](wiki/Getting-Started-in-Security)
     * [Security Tutorials & Resources](wiki/Getting-Started-in-Security/Security-Tutorials-and-Resources.md)
@@ -31,11 +31,11 @@
     * [Incident Management](#incident-management)
     * [Sandboxing/Reversing Tools](#sandboxingreversing-tools)
 
-3. [Security Tools](https://github.com/mikeroyal/Open-Source-Security-Guide#security-tools)
+3. [Security Tools](Wiki/Security-Tools/)
 
-4. [Network Security](https://github.com/mikeroyal/Open-Source-Security-Guide#network-security)
+4. [Network Security](Wiki/Network-Security/)
 
-5. [Red Team]()
+5. [Teams](Wiki/Teams/)
 
 
 <p align="center">
