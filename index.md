@@ -11,7 +11,7 @@
  * [Free Training](Wiki/Free-Training/)
 
 1. [Getting Started with with Open Source Security](wiki/Getting-Started-in-Security)
-    * [Security Tutorials & Resources](Security-Tutorials-and-Resources.md)
+    * [Security Tutorials & Resources](wiki/Getting-Started-in-Security/Security-Tutorials-and-Resources.md)
     * [Security Certifications](Security-Certifications.md)
     * [Books](books.md)
     * [Playbooks](playbooks.md)
