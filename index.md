@@ -35,7 +35,7 @@
 
 4. [Network Security](Wiki/Network-Security/)
 
-5. [Teams](main/Teams/index.md)
+5. [Teams](Wiki/Teams/index.md)
 
 
 <p align="center">
