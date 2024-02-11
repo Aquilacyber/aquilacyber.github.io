@@ -125,7 +125,7 @@ A lot of people ask this question especially the noobs and it depends. Some empl
 
 
 and after you're done picking what you want to learn a lovely place to get started:
-[https://quickref.me]
+https://quickref.me
 
 
 
