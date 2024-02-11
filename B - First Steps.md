@@ -124,11 +124,8 @@ A lot of people ask this question especially the noobs and it depends. Some empl
 [https://youtu.be/xLjmM2DZp8s?si=RlHvP1MQCsXWgbxX](https://youtu.be/xLjmM2DZp8s?si=RlHvP1MQCsXWgbxX)
 
 
-
-
-
-
-
+and after you're done picking what you want to learn a lovely place to get started:
+[https://quickref.me]
 
 
 
@@ -141,13 +138,7 @@ A lot of people ask this question especially the noobs and it depends. Some empl
 
 [https://www.reddit.com/r/cybersecurity/comments/sgmqxv/comment/hv7ixno/](https://www.reddit.com/r/cybersecurity/comments/sgmqxv/comment/hv7ixno/)
 
-More stuffs: [https://www.reddit.com/r/cybersecurity/comments/sb7ugv/comment/hux2869/](https://www.reddit.com/r/cybersecurity/comments/sb7ugv/comment/hux2869/) Projects: [https://www.reddit.com/r/cybersecurity/comments/sxir9c/comment/hxsm5qn/](https://www.reddit.com/r/cybersecurity/comments/sxir9c/comment/hxsm5qn/) **What programming language to learn?:**
-
-[https://www.reddit.com/r/learnprogramming/comments/131wyrs/a_beginner_question_whats_th](https://www.reddit.com/r/learnprogramming/comments/131wyrs/a_beginner_question_whats_the_best_programming/) [e_best_programming/](https://www.reddit.com/r/learnprogramming/comments/131wyrs/a_beginner_question_whats_the_best_programming/)
-
-[https://youtu.be/xLjmM2DZp8s?si=RlHvP1MQCsXWgbxX](https://youtu.be/xLjmM2DZp8s?si=RlHvP1MQCsXWgbxX)
-
-
+More stuffs: [https://www.reddit.com/r/cybersecurity/comments/sb7ugv/comment/hux2869/](https://www.reddit.com/r/cybersecurity/comments/sb7ugv/comment/hux2869/) Projects: [https://www.reddit.com/r/cybersecurity/comments/sxir9c/comment/hxsm5qn/](https://www.reddit.com/r/cybersecurity/comments/sxir9c/comment/hxsm5qn/)
 
 Blue teamers:
 
