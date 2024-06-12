@@ -30,7 +30,7 @@ Cybersecurity Career Path ⬆️
 - [Digital Forensic Analyst](https://github.com/Aquilacyber/aquilacyber.github.io/blob/main/cybersecurity-career-path/Digital_Forensic_Analyst.md)
 - [SCADA Security Specialist](https://github.com/Aquilacyber/aquilacyber.github.io/blob/main/cybersecurity-career-path/SCADA_Security_Specialist.md)
 - [Information Security Analyst](https://github.com/Aquilacyber/aquilacyber.github.io/blob/main/cybersecurity-career-path/Information_Security_Analyst.md)
-  aquilacyber.github.io/blob/main/cybersecurity-career-path
+ 
 
 ## Researcher
 
