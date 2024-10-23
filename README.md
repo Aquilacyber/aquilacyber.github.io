@@ -6,8 +6,8 @@ Welcome to our comprehensive guide on starting your journey into the world of cy
 
 Explore the foundational steps and essential resources to kickstart your cyber security education:
 
-- [First Steps](https://github.com/Aquilacyber/aquilacyber.github.io/blob/main/First%20Steps.md)
-- [Free Training](https://github.com/Aquilacyber/aquilacyber.github.io/blob/main/Free-Training/README.md)
+- [First Steps](https://github.com/Aquilacyber/aquilacyber.github.io/blob/main/FirstSteps.md)
+- [Free Training](https://github.com/Aquilacyber/aquilacyber.github.io/blob/main/Free-Training/)
   - [Books](https://github.com/Aquilacyber/aquilacyber.github.io/blob/main/Free-Training/Books.md)
   - [Courses](https://github.com/Aquilacyber/aquilacyber.github.io/blob/main/Free-Training/Courses.md)
   - [News](https://github.com/Aquilacyber/aquilacyber.github.io/blob/main/Free-Training/News.md)
