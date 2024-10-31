@@ -13,6 +13,8 @@ Explore the foundational steps and essential resources to kickstart your cyber s
   - [News](https://github.com/Aquilacyber/aquilacyber.github.io/blob/main/Free-Training/News.md)
   - [Podcasts](https://github.com/Aquilacyber/aquilacyber.github.io/blob/main/Free-Training/Podcasts.md)
   - [YouTube](https://github.com/Aquilacyber/aquilacyber.github.io/blob/main/Free-Training/YouTube.md)
+- [90 Days Of CyberSecurity](/90DaysOfCyberSecurity/README.md)
+
 
 ## Cyber Security Career Paths
 
