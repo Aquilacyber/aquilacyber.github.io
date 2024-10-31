@@ -8,8 +8,9 @@
 
 **Ready to delve deeper? Explore these resources:**
 
-* **Blue Team Fundamentals:** [https://github.com/Aquilacyber/aquilacyber.github.io/blob/main/Teams/Defensive%20Security.md]
-* **Red Teaming Strategies:** [https://github.com/Aquilacyber/aquilacyber.github.io/blob/main/Teams/Offensive%20Security.md]
+* **Blue Team Tools:**  [TOOLS](Defensive-Security.md)
+* **Red Teaming Tools:** [TOOLS](Offensive-Security.md)
+
 
 By understanding the contrasting perspectives of Blue and Red, you gain a better grasp of the dynamic world of cybersecurity.
 
