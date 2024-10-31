@@ -90,7 +90,7 @@ Discover industry standards and best practices for cyber security:
 
 Discover essential tools and practices for security teams:
 
-- [Defensive Security](/Security-team-tools/Defensive%20Security.md)
-- [Offensive Security](/Security-team-tools/Offensive%20Security.md)
+- [Defensive Security](/Security-team-tools/Defensive-Security.md)
+- [Offensive Security](/Security-team-tools/Offensive-Security.md)
 
 This repository is continually updated to provide you with the latest resources and insights to navigate the dynamic field of cyber security effectively. Whether you are aiming to enhance your skills or embark on a new career path, we are here to support your journey. Start exploring now and empower yourself with the knowledge to protect and defend in the digital world.
