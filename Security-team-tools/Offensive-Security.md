@@ -1,4 +1,4 @@
-# This List is no longer updated.
+
 
 ## Awesome Red Teaming
 

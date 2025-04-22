@@ -1,14 +1,12 @@
 # BlueTeam-Tools
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/100603074/210680535-40d8c113-2336-4417-bdb4-4825a7477164.png" height="300">
-</p> 
+
 
 This github repository contains a collection of **65+** **tools** and **resources** that can be useful for **blue teaming activities**. 
 
 Some of the tools may be specifically designed for blue teaming, while others are more general-purpose and can be adapted for use in a blue teaming context.
 
-> 🔗 If you are a Red Teamer, check out [RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools)
+
 
 > **Warning** 
 > 
