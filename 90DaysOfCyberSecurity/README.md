@@ -22,7 +22,7 @@ This 90-day plan covers essential cybersecurity concepts, hands-on labs, and pro
 ## Day 1-7: **Network+ Certification Prep**
 - **Objective**: Gain a strong foundation in networking concepts essential for cybersecurity.
 - **Resources**:
-  - [Professor Messer's N10-008 Playlist](https://youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G)
+  - [Professor Messer's N10-009 Playlist](https://youtube.com/playlist?list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&si=g1oxrL35gjfLYRNg)
   - ExamCompass or CompTIA study guides
 - **Activities**:
   - Set up a virtual network and practice subnetting, working with protocols, and the OSI model.
