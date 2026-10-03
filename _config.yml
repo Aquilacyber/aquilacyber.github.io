@@ -1,0 +1,31 @@
+title: "AquilaCyber: Start in Cybersecurity"
+description: "A free, ordered path from no experience to your first security role."
+theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-readme-index
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+  - jekyll-default-layout
+
+readme_index:
+  enabled: true
+  remove_originals: true
+relative_links:
+  enabled: true
+  collections: false
+optional_front_matter:
+  enabled: true
+  remove_originals: true
+titles_from_headings:
+  enabled: true
+  strip_title: true
+  collections: false
+
+exclude:
+  - scripts
+  - .github
+  - CONTRIBUTING.md
+  - CREDITS.md
+  - LICENSE

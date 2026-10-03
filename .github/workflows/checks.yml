@@ -1,0 +1,20 @@
+name: Checks
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  internal:
+    name: Links and style
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Check internal links, anchors and images
+        run: python3 scripts/check_links.py
+      - name: Check style rules
+        run: python3 scripts/check_style.py

@@ -1,0 +1,39 @@
+# Security Engineer (Software)
+
+[All roles](README.md)
+
+## Summary
+
+Builds security into software and infrastructure. Designs and implements controls, hardens systems, automates checks and fixes weaknesses found in testing or audits.
+
+## Hard Skills
+
+- At least 5+ years of experience in application security
+- Strong communication skills and ability to work in a team
+- Expertise with common security testing methodologies
+- Experience with automated or otherwise highly scalable application security solutions
+- Experience with building and customizing tools
+- Experience securing cloud environments (Azure, AWS)
+- Strong demonstrated knowledge of web protocols and an in-depth knowledge of Windows, Linux and/or Unix tools and architecture
+- Ability to accurately weight security risks against business operations and goals
+- Strong foundation in applied cryptography
+- Experience with SAST, DAST, and SCA
+- Experience with automation tools and deployments
+- Excellent written and oral communication skills, as well as interpersonal skills including the ability to articulate to both technical and non-technical audiences
+
+## Soft Skills
+
+- Excellent presentation and communications skills to effectively communicate with management and customers.
+- Ability to clearly articulate complex concepts (both written and verbally).
+- Ability, understanding, and usage of active listening skills (especially with customers!).
+
+## Education
+
+- Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering or equivalent experience
+
+## Interview Questions
+
+- <https://github.com/tadwhitaker/Security_Engineer_Interview_Questions>
+## Training Resources
+
+- <https://devskiller.com/screen-security-engineer/>

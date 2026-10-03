@@ -1,0 +1,53 @@
+# Application Penetration Tester
+
+[All roles](README.md)
+
+## Summary
+
+Tests web applications, APIs and mobile or desktop apps for weaknesses with the owner's permission, often with access to the source code, and reports what was found and how to fix it. A penetration test is a scoped attack simulation. A vulnerability assessment only lists known weaknesses.
+
+## Baseline
+
+- Familiarity with programming languages
+- Understanding of application architecture
+
+## Hard Skills
+
+- Experience in white-box application penetration testing (Web, APIs, Mobile, Thick clients) or demonstrable equivalent knowledge
+- Proficiency with application security testing tools such as Burp Suite, OWASP ZAP, SQLMap, IDA Pro, Kali Linux, etc.
+- Experience in manual application source code security reviews for various languages, including Java, .NET (C#, VB#), and C++
+- Proficiency with UNIX or Linux operating systems
+- Experience with scripting languages such as Python, Bash, and PowerShell
+- Knowledge of containerization and cloud technologies
+
+## Soft Skills
+
+- Finds answers without being told where to look and shares what they learn with the team
+- Real interest in application security and a habit of learning
+
+## Education
+
+- Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent experience
+
+## Certifications
+
+- CEH (Certified Ethical Hacker)
+- OSCP (Offensive Security Certified Professional)
+- EWPT (eLearnSecurity Web Application Penetration Tester)
+- EWPTX (eLearnSecurity Web Application Penetration Tester eXtreme)
+- EMAPT (eLearnSecurity Mobile Application Penetration Tester)
+
+## Interview Questions
+
+- [Web Application Security Interview Questions](https://www.synopsys.com/blogs/software-security/web-appsec-interview-questions/)
+- [Mobile Testing Interview Questions](https://www.guru99.com/mobile-testing-interview-questions.html)
+- [Network Penetration Testing Interview Questions & Answers](https://compsecurityconcepts.wordpress.com/2016/02/19/network-penetration-testing-interview-questions-answers/)
+
+## Training Resources
+
+- [OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+- [Hack The Box](https://www.hackthebox.com/)
+- [Pentester Academy](https://www.pentesteracademy.com/)
+- [Cybrary](https://www.cybrary.it/)
+- [Offensive Security Training](https://www.offsec.com/)
