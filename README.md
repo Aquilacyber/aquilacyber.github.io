@@ -1,7 +1,7 @@
 
 # 🎯 Start Your Cybersecurity Journey with AquilaCyber — Free, Simple, and Structured
 
-Welcome to your all-in-one guide for breaking into cybersecurity — even if you’re starting from scratch or on a tight budget. This open-source repository by **[AquilaCyber](https://alturacyber.com/aquilacyber/)** is packed with curated, beginner-friendly, and hands-on resources to help you **learn core concepts**, **build practical skills**, and **explore career paths** — all without breaking the bank.
+Welcome to your all-in-one guide for breaking into cybersecurity — even if you’re starting from scratch or on a tight budget. This open-source repository by **[AquilaCyber](https://www.aquilacyber.org/)** is packed with curated, beginner-friendly, and hands-on resources to help you **learn core concepts**, **build practical skills**, and **explore career paths** — all without breaking the bank.
 
 Whether you're switching careers, exploring your curiosity, or preparing for your first cybersecurity job, this guide is here to help you learn efficiently and stay motivated.
 
