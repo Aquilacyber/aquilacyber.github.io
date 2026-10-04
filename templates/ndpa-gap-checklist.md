@@ -137,11 +137,11 @@ Never keep real customer data in this document. Describe it by type.
 
 **Top five actions, in order:**
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1. [Action, owner and date]
+2. [Action, owner and date]
+3. [Action, owner and date]
+4. [Action, owner and date]
+5. [Action, owner and date]
 
 Start with any No in breach management, security, lawful basis and registration. Those carry the most risk for the people whose data you hold and for the organisation.
 

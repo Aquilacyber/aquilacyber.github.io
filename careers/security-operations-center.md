@@ -45,3 +45,9 @@ Watches alerts in a SIEM and other tools, decides which are real, investigates t
 - How do you decide whether to escalate an alert?
 - What information belongs in a good incident ticket?
 - What does a SIEM do, and what are its limits?
+
+## Training Resources
+
+- The [blue team track](../tracks/blue-team.md) and [security operations concepts](../guides/security-operations-concepts.md)
+- The Windows event ID table in the [Windows and Active Directory basics](../guides/windows-and-active-directory.md) guide
+- Practice: [LetsDefend](https://letsdefend.io/), [Blue Team Labs Online](https://blueteamlabs.online/) and [CyberDefenders](https://cyberdefenders.org/)

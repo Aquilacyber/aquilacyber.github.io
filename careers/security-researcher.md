@@ -36,3 +36,9 @@ Finds new vulnerabilities and attacker techniques and studies how they work, oft
 - How do you decide when a finding is worth reporting to the vendor?
 - What is coordinated disclosure, and what timeline would you propose?
 - How do you keep notes so that someone else can reproduce your result?
+
+## Training Resources
+
+- The [offensive security introduction](../domains/offensive-security.md) and the [ethics and law guide](../guides/ethics-and-law.md), which covers reporting a vulnerability
+- [CVE programme](https://www.cve.org/) and the [National Vulnerability Database](https://nvd.nist.gov/)
+- [Reference: offensive security](../reference/offensive-security.md)

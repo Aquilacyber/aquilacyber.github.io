@@ -8,6 +8,10 @@ Last reviewed: 2026-10-03
 
 By now you have tried attacking, defending and reading logs. Pick one track and stay in it for the full 12 weeks. You can switch later. Switching after week three because another track looks more exciting is how people end up with a dozen half-finished courses.
 
+## Read the domain introductions first
+
+Before you choose, read the eleven short [domain introductions](../domains/README.md). Each takes about fifteen minutes and explains what an area of security involves, what the work looks like and what to try in your lab. You will choose better once you know what each area is.
+
 ## The tracks
 
 Three core tracks suit most beginners. Four specialist tracks are for people who already have a head start.

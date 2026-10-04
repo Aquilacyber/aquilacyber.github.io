@@ -43,3 +43,11 @@ Studies threat actors and their methods and writes reports that help defenders a
 - Explain the MITRE ATT&CK framework and how you would use it in a report.
 - What is the Pyramid of Pain, and why does it matter?
 - A report claims an attack came from a particular country. How do you treat that claim?
+
+## Training Resources
+
+- The [threat intelligence introduction](../domains/threat-intelligence.md)
+- [MITRE ATT&CK](https://attack.mitre.org/)
+- [Traffic Light Protocol](https://www.first.org/tlp/)
+- [Reference: threat intelligence](../reference/threat-intelligence.md)
+- The [blue team track](../tracks/blue-team.md)

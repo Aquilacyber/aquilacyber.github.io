@@ -46,4 +46,4 @@ If you are the author of any of this and want it credited differently or taken d
 
 ## Original content
 
-Everything else was written for AquilaCyber: the root README, the [roadmap](roadmap/README.md), the [tracks](tracks/README.md), the [guides](guides/README.md), the [resources](resources/README.md), the three original pages in `reference/`, and the scripts and workflows in `.github/` and `scripts/`.
+Everything else was written for AquilaCyber: the root README, the [roadmap](roadmap/README.md), the [domain introductions](domains/README.md), the [tracks](tracks/README.md), the [guides](guides/README.md), the [templates](templates/README.md), the [resources](resources/README.md), the three original pages in `reference/`, and the scripts and workflows in `.github/` and `scripts/`.

@@ -4,6 +4,8 @@ Last reviewed: 2026-10-03
 
 GRC stands for governance, risk and compliance. This track covers the work of deciding which security risks an organisation accepts, writing the rules that manage them, and proving to auditors and regulators that the rules are followed. It includes data protection and privacy.
 
+Background reading: the introduction to [GRC](../domains/grc.md).
+
 ## What the work looks like
 
 A GRC analyst interviews system owners, collects evidence, maintains a risk register, writes and updates policies, prepares for audits and tracks fixes until they are closed. You work with technical teams, lawyers, auditors and managers. Clear writing and patience with process matter more than any tool.

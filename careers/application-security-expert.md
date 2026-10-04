@@ -56,11 +56,8 @@ Works with developers to find and fix security problems in the software a compan
 
 ## Training Resources
 
-- [OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
+- [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
+- [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
-- [Hack The Box](https://www.hackthebox.com/)
-- [Pentester Academy](https://www.pentesteracademy.com/)
-- [Cybrary](https://www.cybrary.it/)
-- [Offensive Security Training](https://www.offsec.com/)
-- [Cloud Academy](https://cloudacademy.com/) - For cloud security training
-- [Coursera](https://www.coursera.org/) - Offers various courses on cybersecurity and cloud security
+- The [application security track](../tracks/application-security.md)
+- The [threat modeling introduction](../domains/threat-modeling.md)

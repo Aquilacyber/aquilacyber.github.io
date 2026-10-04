@@ -58,7 +58,7 @@ The senior executive responsible for security across an organisation. The role o
 
 ## Training Resources
 
-- [SANS Institute](https://www.sans.org/)
+- [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework)
 - [ISACA](https://www.isaca.org/)
-- [Coursera Cybersecurity Courses](https://www.coursera.org/browse/information-technology/cybersecurity)
-- [MIT OpenCourseWare - Cybersecurity](https://ocw.mit.edu/index.htm)
+- The [frameworks and standards guide](../guides/frameworks-and-standards.md)
+- The [GRC introduction](../domains/grc.md) and the [incident response introduction](../domains/incident-response.md)

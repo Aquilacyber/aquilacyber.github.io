@@ -38,6 +38,8 @@ Short definitions of terms you will meet in the roadmap.
 
 **DAST.** Dynamic application security testing. Testing a running application from the outside, as an attacker would.
 
+**Data flow diagram.** A simple drawing of a system showing its users, processes, data stores and data flows, and the trust boundaries between them. Used in threat modeling.
+
 **Defence in depth.** Using several layers of protection so one failure does not expose everything.
 
 **DMZ.** A network zone for systems that must be reachable from the internet, kept apart from the internal network.
@@ -50,6 +52,8 @@ Short definitions of terms you will meet in the roadmap.
 
 **Encryption.** Scrambling data so only someone with the key can read it. It can be reversed with the key.
 
+**Endpoint.** Any device that connects to a network, such as a laptop, server or phone.
+
 **Entra ID.** Microsoft's cloud identity service, called Azure Active Directory until 2023. It is not the same product as on-premises Active Directory.
 
 **EPSS.** Exploit Prediction Scoring System. A score from FIRST that estimates how likely a vulnerability is to be exploited in the next 30 days.
@@ -58,6 +62,8 @@ Short definitions of terms you will meet in the roadmap.
 
 **Firewall.** A control that allows or blocks network traffic by rules.
 
+**Firmware.** The software stored on a device's own chips, such as a router, camera or smart meter.
+
 **Forensic image.** An exact bit-for-bit copy of a disk or memory, made so the original is not touched during an investigation.
 
 **GRC.** Governance, risk and compliance.
@@ -65,6 +71,8 @@ Short definitions of terms you will meet in the roadmap.
 **Group Policy.** A feature of Active Directory that pushes settings, such as password rules, to many computers and users at once.
 
 **Hash.** A fixed-length fingerprint of data produced by a one-way function. You cannot turn a hash back into the original. Used for passwords and file integrity.
+
+**HMAC.** A way to prove that a message came from someone holding a shared key and was not changed.
 
 **IaC.** Infrastructure as code. Defining servers, networks and cloud resources in files, such as Terraform, instead of clicking in a console.
 
@@ -108,6 +116,10 @@ Short definitions of terms you will meet in the roadmap.
 
 **Phishing.** A message that tricks someone into giving up credentials or running malware.
 
+**PKI.** Public key infrastructure. The certificates, authorities and rules that let systems trust public keys.
+
+**Post-quantum cryptography.** Algorithms designed to stay secure against attacks from large quantum computers.
+
 **Privilege escalation.** Gaining more access than you were given.
 
 **Ransomware.** Malware that encrypts files and demands payment to restore them.
@@ -146,7 +158,15 @@ Short definitions of terms you will meet in the roadmap.
 
 **Threat.** Anything that could harm an asset. A vulnerability is a weakness. A risk combines the two with impact.
 
+**Threat modeling.** A structured way of asking what could go wrong with a system and deciding what to do about it, usually during design.
+
+**TLP.** Traffic Light Protocol. A set of colours that mark how widely a piece of threat information may be shared.
+
 **TLS.** Transport Layer Security. The protocol behind the padlock in your browser.
+
+**Trust boundary.** A line in a system where the level of trust changes, such as between the internet and a server.
+
+**TTP.** Tactics, techniques and procedures. How an attacker behaves, as opposed to the files and addresses they use.
 
 **VPN.** Virtual private network. An encrypted tunnel between your device and another network.
 

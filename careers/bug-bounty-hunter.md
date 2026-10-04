@@ -45,4 +45,7 @@ Looks for security flaws in the applications of organisations that run bug bount
 
 ## Training Resources
 
-- Explore learning opportunities and practical guidance for bug bounty hunting at [nahamsec.com](https://nahamsec.com) and other specialized platforms offering cybersecurity training.
+- [Hacker101](https://www.hacker101.com/), free videos and a capture the flag from HackerOne
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+- Programme platforms: [HackerOne](https://www.hackerone.com/), [Bugcrowd](https://www.bugcrowd.com/) and [Intigriti](https://www.intigriti.com/). Read a programme's scope and rules before you test anything
+- The [red team track](../tracks/red-team.md) and the [ethics and law guide](../guides/ethics-and-law.md)

@@ -48,9 +48,7 @@ Tests web applications, APIs and mobile or desktop apps for weaknesses with the 
 
 ## Training Resources
 
-- [OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
+- [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
-- [Hack The Box](https://www.hackthebox.com/)
-- [Pentester Academy](https://www.pentesteracademy.com/)
-- [Cybrary](https://www.cybrary.it/)
-- [Offensive Security Training](https://www.offsec.com/)
+- The [AquilaCyber Defenders Portal guide](../guides/defenders-portal.md)
+- The [red team track](../tracks/red-team.md) and the [practice labs list](../resources/practice-labs.md)

@@ -38,3 +38,9 @@ Researches and builds new methods and tools for hard cyber security problems, of
 - How would you test whether a new detection technique works better than an existing one?
 - How could machine learning help find unusual network behaviour, and where could it fail?
 - How do you document research so that another person can repeat it?
+
+## Training Resources
+
+- The [threat intelligence introduction](../domains/threat-intelligence.md) and the [network security introduction](../domains/network-security.md)
+- [MITRE ATT&CK](https://attack.mitre.org/)
+- Publications from NIST at [csrc.nist.gov](https://csrc.nist.gov/)

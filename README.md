@@ -25,6 +25,7 @@ If you want a day-by-day schedule for the first three months, use the [90-day st
 
 ## Read these before you begin
 
+- [Security domains](domains/README.md): eleven short introductions. Read them after phase 1 and before you choose a track.
 - [Lab setup](guides/lab-setup.md): hardware you need, what to do without a laptop, how to save data.
 - [Ethics and law](guides/ethics-and-law.md): read this before you run any scanning or attack tool.
 - [Nigeria guide](guides/nigeria.md): the regulators, the employers and the local rules that create demand for security work.
@@ -34,6 +35,7 @@ If you want a day-by-day schedule for the first three months, use the [90-day st
 | Folder | Contents |
 |---|---|
 | [roadmap/](roadmap/README.md) | The four phases |
+| [domains/](domains/README.md) | Short introductions to eleven areas of security: network, endpoint, cloud, IoT, cryptography, threat modeling, incident response, forensics, threat intelligence, offensive security and GRC |
 | [tracks/](tracks/README.md) | Plans for blue team, red team and GRC |
 | [guides/](guides/README.md) | Lab setup, ethics, Nigeria, Linux, Windows and Active Directory, network security, the Defenders Portal, certifications, frameworks, glossary, FAQ, 90-day plan, checklist |
 | [templates/](templates/README.md) | Write-up, penetration test report, risk register, NDPA gap checklist and CV |

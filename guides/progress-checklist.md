@@ -30,6 +30,7 @@ Copy this file into your own notes or fork the repository and tick items as you 
 
 ## Phase 3: Track
 
+- [ ] I have read the eleven domain introductions
 - [ ] I have chosen a track: blue team, red team, GRC, or a specialist track
 - [ ] Project 1 is finished and has a README
 - [ ] Project 2 is finished and has a README

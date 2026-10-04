@@ -42,3 +42,10 @@ Reads source code to find security flaws before attackers do. Combines manual re
 - How do you follow untrusted input through an application?
 - What are the limits of static analysis tools?
 - How do you write a code finding that a developer can act on?
+
+## Training Resources
+
+- The [application security track](../tracks/application-security.md)
+- [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
+- [OWASP Code Review Guide](https://github.com/OWASP/www-project-code-review-guide)
+- [Semgrep](https://github.com/semgrep/semgrep) and [CodeQL](https://github.com/github/codeql)

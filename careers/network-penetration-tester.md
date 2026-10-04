@@ -43,3 +43,9 @@ Tests networks and the machines on them for weaknesses, with permission: open se
 - Explain the difference between a SYN scan and a full connect scan.
 - What are common ways to move from one machine to another inside a network?
 - How do you keep a test from disrupting production systems?
+
+## Training Resources
+
+- The [offensive security introduction](../domains/offensive-security.md) and the [network security basics guide](../guides/network-security-basics.md)
+- [The Nmap book](https://nmap.org/book/)
+- The [red team track](../tracks/red-team.md) and the [practice labs list](../resources/practice-labs.md)

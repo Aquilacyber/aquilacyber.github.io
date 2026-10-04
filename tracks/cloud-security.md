@@ -6,6 +6,8 @@ Cloud security is the work of keeping systems safe in AWS, Azure or Google Cloud
 
 This is a specialist track. It suits you most if you already have a head start: system administration, development or DevOps. If you do not, finish the [blue team track](blue-team.md) first and come back, because cloud security builds on the same logging and investigation skills.
 
+Background reading: the introduction to [cloud security](../domains/cloud-security.md).
+
 ## What the work looks like
 
 A cloud security engineer reviews who has access to what, checks that logging is on, scans infrastructure code before it is deployed, watches for misconfigurations and risky changes, and helps developers fix what is found. When an incident happens in the cloud, they revoke access, isolate resources and preserve logs.

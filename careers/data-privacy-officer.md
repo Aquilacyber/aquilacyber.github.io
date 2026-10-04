@@ -40,3 +40,9 @@ Makes sure an organisation handles personal data lawfully. Advises on privacy la
 - A laptop containing customer records is stolen. What are your first steps, and what deadlines apply?
 - When must you carry out a data protection impact assessment?
 - A team wants to send customer data to a vendor abroad. How do you advise them?
+
+## Training Resources
+
+- The [GRC introduction](../domains/grc.md)
+- The [NDPA gap checklist](../templates/ndpa-gap-checklist.md)
+- The [Nigeria guide](../guides/nigeria.md) and the NDPC site, [ndpc.gov.ng](https://ndpc.gov.ng/)

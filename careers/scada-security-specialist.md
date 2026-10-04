@@ -18,7 +18,7 @@ Secures industrial control systems that run power grids, pipelines and factories
 - Working knowledge of Automation equipment such as RTUs, Data Concentrators, distributed I/O, media converters, etc.
 - Experience implementing technology solutions within the context of utility cyber security best practices and compliance.
 - Knowledge of database management and ability to write and run queries in SQL.
-- Experience programing in at least one of the major programming languages (C#, VBA, Java (J2EE) etc.)
+- Experience programming in at least one of the major programming languages (C#, VBA, Java (J2EE) etc.)
 - Working knowledge of IT environments including hardware/software maintenance, networking, telecommunications infrastructure, TCP/IP.
 - Testing experience; Experience in executing functional and user acceptance testing (UAT) with specific experience in developing, documenting, and executing scenario-based testing scripts for UAT.
 - Demonstrates strong understanding of the impact(s) of technology changes to the collective business processes across functional units.
@@ -48,3 +48,9 @@ Secures industrial control systems that run power grids, pipelines and factories
 - What are Modbus and DNP3, and which security weakness do they share?
 - How would you separate an industrial network from the corporate network?
 - What does safety mean when you plan a security change on a control system?
+
+## Training Resources
+
+- [MITRE ATT&CK for ICS](https://attack.mitre.org/matrices/ics/)
+- NIST SP 800-82, the guide to operational technology security, at [csrc.nist.gov](https://csrc.nist.gov/)
+- The [IoT security introduction](../domains/iot-security.md) and the [network security introduction](../domains/network-security.md)

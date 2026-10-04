@@ -25,7 +25,7 @@ Collects and analyses information about threat actors and their methods, then wr
 - Producing assessments and cyber threat profiles derived from sophisticated analysis of classified and open-source information, including correlating threat data from diverse sources.
 - Develops and maintains analytical procedures as requirements change
 - Uses technical findings to support intelligence analysis and drafts or updates standard operating procedures for the team
-- Leveraging open-source and social media platforms to evaluate publicly available information for signs of suspicious or malicious activities.
+- Using open-source and social media platforms to evaluate publicly available information for signs of suspicious or malicious activities.
 - Deploying and managing tools that facilitate intelligence analysis and reporting.
 - Writing contract deliverables such as Event Bulletins, Cyber Digests, and Quarterly Summary Reports.
 
@@ -54,5 +54,8 @@ Collects and analyses information about threat actors and their methods, then wr
 
 ## Training Resources
 
-- Access advanced training in Cyber Threat Intelligence and related fields through reputable institutions like the [SANS Institute](https://www.sans.org/).
-- Specifically, consider enrolling in courses such as [FOR578: Cyber Threat Intelligence](https://www.sans.org/cyber-security-courses/cyber-threat-intelligence/), which provide in-depth knowledge and practical skills essential for this role.
+- The [threat intelligence introduction](../domains/threat-intelligence.md)
+- [MITRE ATT&CK](https://attack.mitre.org/)
+- [Traffic Light Protocol](https://www.first.org/tlp/)
+- [STIX documentation](https://github.com/oasis-open/cti-documentation)
+- [Reference: threat intelligence](../reference/threat-intelligence.md)

@@ -37,3 +37,9 @@ Analyses mobile and embedded applications for vulnerabilities and works with dev
 - How would you check whether an app validates server certificates properly?
 - What are the main differences between securing an Android app and an iOS app?
 - How do you review the permissions an app asks for?
+
+## Training Resources
+
+- [OWASP Mobile Application Security](https://mas.owasp.org/), the standard and the testing guide
+- [Frida](https://github.com/frida/frida) for inspecting running apps
+- The [application security track](../tracks/application-security.md)

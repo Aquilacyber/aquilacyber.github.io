@@ -6,6 +6,8 @@ Red team work is testing systems for weaknesses, with permission, and reporting 
 
 Everything on this page depends on authorisation. Read the [ethics and law guide](../guides/ethics-and-law.md) before you start and again before you test anything that is not your own lab.
 
+Background reading: the introductions to [offensive security](../domains/offensive-security.md), [network security](../domains/network-security.md) and [cryptography](../domains/cryptography.md). If you are drawn to hardware, add [IoT security](../domains/iot-security.md).
+
 ## What the work looks like
 
 A penetration tester is hired for a defined scope and time. Most of the engagement is careful enumeration, testing and note-taking. The deliverable is a report. A tester who finds a serious flaw and cannot explain it clearly to a developer has done half the job. Few people start here. Most spend a year or two in IT, development or security operations first.

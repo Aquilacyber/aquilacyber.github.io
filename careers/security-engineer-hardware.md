@@ -34,3 +34,9 @@ Secures devices that contain firmware and hardware, such as IoT products. Works 
 - What can an attacker do with physical access to a device, and how do you reduce the risk?
 - How do you protect firmware updates?
 - What is a secure boot chain?
+
+## Training Resources
+
+- The [IoT security introduction](../domains/iot-security.md) and the [threat modeling introduction](../domains/threat-modeling.md)
+- [OWASP IoTGoat](https://github.com/OWASP/IoTGoat), a deliberately vulnerable firmware
+- [Binwalk](https://github.com/ReFirmLabs/binwalk) and [Ghidra](https://github.com/NationalSecurityAgency/ghidra) for firmware analysis

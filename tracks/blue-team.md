@@ -4,6 +4,8 @@ Last reviewed: 2026-10-03
 
 Blue team work is detecting attacks, investigating them and limiting the damage. Most people start as a SOC analyst, which is a security operations centre role.
 
+Background reading: the introductions to [network security](../domains/network-security.md), [endpoint security](../domains/endpoint-security.md), [incident response](../domains/incident-response.md) and [threat intelligence](../domains/threat-intelligence.md).
+
 ## What the work looks like
 
 A SOC analyst watches alerts from tools such as a SIEM, an endpoint detection product and email security. Most alerts are false alarms. The job is to decide quickly which ones are not, collect evidence, escalate and write down what you found. The days are repetitive at first. You get better by learning what normal looks like in your organisation.

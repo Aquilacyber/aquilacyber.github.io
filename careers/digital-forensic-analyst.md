@@ -22,7 +22,7 @@ Collects, preserves and analyses digital evidence from computers, phones and net
 - Demonstrate expert ability to analyze and identify relationships and trends between incidents in the short term and patterns across incidents in the long term and report trend analysis in quarterly and yearly trend analysis reports;
 - Demonstrate expert knowledge of encryption algorithms such as IPSEC, AES and etc.
 - Demonstrate expert ability to analyze of file system implementations such as NFTS, EXT and etc.
-- Prior experience leveraging common scripting languages (PowerShell, bash, Python) to parse logs, and automate repeatable tasks
+- Prior experience using common scripting languages (PowerShell, bash, Python) to parse logs, and automate repeatable tasks
 
 ## Soft Skills
 
@@ -44,3 +44,9 @@ Collects, preserves and analyses digital evidence from computers, phones and net
 - How do you prove that an image matches the original disk?
 - Which Windows artefacts show that a program was run?
 - How would you build a timeline from several sources?
+
+## Training Resources
+
+- The [digital forensics track](../tracks/digital-forensics.md) and the [introduction](../domains/digital-forensics.md)
+- [Autopsy](https://www.autopsy.com/) and [Eric Zimmerman's tools](https://ericzimmerman.github.io/)
+- [NIST CFReDS](https://cfreds.nist.gov/) for practice data sets

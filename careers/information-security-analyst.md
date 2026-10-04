@@ -41,3 +41,9 @@ Protects an organisation's systems by monitoring for threats, assessing risks, c
 - A user clicked a phishing link. What do you do?
 - How do you check that a security control is actually working?
 - How would you explain the need for multi-factor authentication to a sceptical manager?
+
+## Training Resources
+
+- The [blue team track](../tracks/blue-team.md) and the [GRC introduction](../domains/grc.md)
+- The [frameworks and standards guide](../guides/frameworks-and-standards.md)
+- [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework)

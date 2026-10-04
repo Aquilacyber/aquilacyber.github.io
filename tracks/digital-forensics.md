@@ -6,6 +6,8 @@ Digital forensics is the work of finding out what happened on a computer or netw
 
 This track suits people who like detail, patience and writing things down exactly.
 
+Background reading: the introductions to [digital forensics](../domains/digital-forensics.md) and [incident response](../domains/incident-response.md).
+
 ## What the work looks like
 
 A forensic analyst receives a device or a disk image, makes sure the original is not changed, analyses the evidence, builds a timeline of events and writes a report that another person can check. Every step is documented, because the evidence may be questioned. A lot of the work is reading artefacts: records that operating systems leave behind without being asked.

@@ -45,3 +45,10 @@ Leads the response when an attack is found: confirms what happened, contains it,
 - You find malware on a server. What do you do before you power anything off?
 - How do you decide when to bring in legal, management or a regulator?
 - What goes into a post-incident report?
+
+## Training Resources
+
+- The [incident response introduction](../domains/incident-response.md) and the [blue team track](../tracks/blue-team.md)
+- NIST SP 800-61 at [csrc.nist.gov](https://csrc.nist.gov/)
+- [Reference: incident response](../reference/incident-response.md)
+- The [write-up template](../templates/writeup-template.md) for practice incident reports

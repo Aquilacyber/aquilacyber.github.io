@@ -46,4 +46,6 @@ Simulates a real attacker against an organisation to test its defences, includin
 
 ## Training Resources
 
-- RTFM Book
+- The [offensive security introduction](../domains/offensive-security.md) and the [red team track](../tracks/red-team.md)
+- [MITRE ATT&CK](https://attack.mitre.org/)
+- The Red Team Field Manual, a pocket reference book

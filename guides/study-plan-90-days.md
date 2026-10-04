@@ -82,7 +82,7 @@ Pick one path on TryHackMe and start it. Aim for a third of it. Write up every r
 
 - Days 81 to 83: go through the [progress checklist](progress-checklist.md) and mark what you can honestly do.
 - Days 84 to 86: fill the biggest gap with extra practice.
-- Days 87 to 88: read [phase 3](../roadmap/03-pick-a-track.md) and the three track pages.
+- Days 87 to 88: read the eleven [domain introductions](../domains/README.md), then [phase 3](../roadmap/03-pick-a-track.md) and the track pages.
 - Days 89 to 90: choose a track and write the 12-week plan in your portfolio repository.
 
 ## If you fall behind

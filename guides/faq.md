@@ -50,6 +50,10 @@ Keep a weekly time budget, finish one thing before you start another, write up w
 
 Start with the [AquilaCyber Defenders Portal](https://ctf.aquilacyber.org/), AquilaCyber's own free capture the flag platform. The [practice labs list](../resources/practice-labs.md) has more, including OverTheWire, picoCTF and the PortSwigger Web Security Academy.
 
+## What are the main areas of security?
+
+There are eleven covered in the [domains section](../domains/README.md): network, endpoint, cloud, IoT, cryptography, threat modeling, incident response, digital forensics, threat intelligence, offensive security and GRC. Each has a short introduction.
+
 ## Where are the templates for write-ups, reports and a CV?
 
 In the [templates folder](../templates/README.md).

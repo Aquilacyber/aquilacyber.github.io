@@ -4,6 +4,8 @@ Last reviewed: 2026-10-03
 
 Application security, often shortened to AppSec, is the work of finding and preventing security flaws in software before and after it ships. This track is written for people who can already code or are learning to. If you build software, it is the shortest route into security, because you already know what developers need.
 
+Background reading: the introductions to [threat modeling](../domains/threat-modeling.md), [offensive security](../domains/offensive-security.md) and [cryptography](../domains/cryptography.md).
+
 ## What the work looks like
 
 An application security engineer works with development teams. You review designs and code, run and tune scanning tools, help developers fix findings and set the rules that stop insecure code reaching production. Penetration testing is part of the work in some companies. The main skill is helping people write secure code. Finding flaws is not enough.

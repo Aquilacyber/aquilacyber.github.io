@@ -40,3 +40,8 @@ Builds security into the way software is built and deployed. Adds automated secu
 - How do you keep secrets out of source code and container images?
 - What does infrastructure as code scanning catch?
 - A scanner produces 500 findings on its first run. How do you start?
+
+## Training Resources
+
+- The [application security track](../tracks/application-security.md) and the [cloud security track](../tracks/cloud-security.md)
+- [Semgrep](https://github.com/semgrep/semgrep), [Gitleaks](https://github.com/gitleaks/gitleaks) and [Trivy](https://github.com/aquasecurity/trivy) for pipeline checks

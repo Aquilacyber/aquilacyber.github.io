@@ -51,7 +51,8 @@ Leads an organisation's information security programme. Owns the security strate
 
 ## Training Resources
 
-- [SANS Institute](https://www.sans.org/)
+- [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework)
+- [CIS Controls](https://www.cisecurity.org/controls)
 - [ISACA](https://www.isaca.org/)
-- [Coursera Cybersecurity Courses](https://www.coursera.org/browse/information-technology/cybersecurity)
-- [MIT OpenCourseWare - Cybersecurity](https://ocw.mit.edu/index.htm)
+- The [frameworks and standards guide](../guides/frameworks-and-standards.md) and the [GRC introduction](../domains/grc.md)
+- The [Nigeria guide](../guides/nigeria.md) for local regulation

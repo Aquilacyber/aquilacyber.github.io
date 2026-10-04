@@ -42,4 +42,6 @@ Builds security into software and infrastructure. Designs and implements control
 
 ## Training Resources
 
-- <https://devskiller.com/screen-security-engineer/>
+- The [application security track](../tracks/application-security.md)
+- [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
+- The [threat modeling introduction](../domains/threat-modeling.md) and the [cryptography introduction](../domains/cryptography.md)

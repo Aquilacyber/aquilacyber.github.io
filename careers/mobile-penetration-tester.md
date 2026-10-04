@@ -43,3 +43,9 @@ Tests Android and iOS apps and the services behind them for weaknesses, with per
 - What is certificate pinning, and how does it affect testing?
 - Name three things you would check in an Android application package.
 - How would you report a finding about insecure local storage?
+
+## Training Resources
+
+- [OWASP Mobile Application Security](https://mas.owasp.org/)
+- [Frida](https://github.com/frida/frida)
+- The [red team track](../tracks/red-team.md) and the [ethics and law guide](../guides/ethics-and-law.md)

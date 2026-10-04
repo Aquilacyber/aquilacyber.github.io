@@ -44,3 +44,10 @@ Searches an organisation's own systems for attackers that automated alerts misse
 - What data would you need to hunt for persistence on Windows machines?
 - How do you turn a successful hunt into a permanent detection?
 - What do you do when a hunt finds nothing?
+
+## Training Resources
+
+- The [blue team track](../tracks/blue-team.md) and the [threat intelligence introduction](../domains/threat-intelligence.md)
+- [MITRE ATT&CK](https://attack.mitre.org/)
+- [Sigma rules repository](https://github.com/SigmaHQ/sigma)
+- The [Detection Engineer profile](detection-engineer.md)

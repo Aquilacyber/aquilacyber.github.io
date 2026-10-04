@@ -53,8 +53,7 @@ Defends an organisation's systems. Watches for attacks, investigates alerts, hel
 
 ## Training Resources
 
-- [SANS Cyber Security Training](https://www.sans.org/)
-- [Cybrary](https://www.cybrary.it/)
-- [Udemy Cyber Security Courses](https://www.udemy.com/topic/cyber-security/)
-- [Coursera Cyber Security Courses](https://www.coursera.org/browse/information-technology/cybersecurity)
-- [MIT OpenCourseWare - Cybersecurity](https://ocw.mit.edu/index.htm)
+- The [blue team track](../tracks/blue-team.md)
+- [Security operations concepts](../guides/security-operations-concepts.md)
+- Practice: [LetsDefend](https://letsdefend.io/), [Blue Team Labs Online](https://blueteamlabs.online/) and [CyberDefenders](https://cyberdefenders.org/)
+- [MITRE ATT&CK](https://attack.mitre.org/)

@@ -40,3 +40,10 @@ Tests websites and web applications for weaknesses with the owner's permission a
 - Explain the difference between stored and reflected cross-site scripting.
 - How would you check whether session tokens are handled safely?
 - How do you write a finding so that a developer can reproduce it?
+
+## Training Resources
+
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+- [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
+- The [AquilaCyber Defenders Portal guide](../guides/defenders-portal.md) and [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
+- The [red team track](../tracks/red-team.md)

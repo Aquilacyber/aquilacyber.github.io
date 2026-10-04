@@ -31,6 +31,7 @@ Search the exact error message first. If that fails, ask in the AquilaCyber comm
 
 ## Supporting pages
 
+- [Security domains](../domains/README.md), eleven short introductions to read before phase 3
 - [Lab setup](../guides/lab-setup.md)
 - [Linux basics](../guides/linux-basics.md)
 - [Windows and Active Directory basics](../guides/windows-and-active-directory.md)

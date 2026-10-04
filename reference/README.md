@@ -4,7 +4,7 @@ Last reviewed: 2026-10-03
 
 Large lists and third-party material, kept for lookup. This section is not part of the beginner path. Come here when you have a specific question, such as "which open source tools exist for X".
 
-Do not read these front to back.
+Do not read these front to back. If you are new to a topic, start with its beginner introduction in the [domains section](../domains/README.md) and come back here afterwards.
 
 ## Pages in this section
 
@@ -13,10 +13,10 @@ Do not read these front to back.
 | [Cryptography](cryptography.md) | Libraries, tools and resources by language | Copy of a third-party list |
 | [Endpoint security](endpoint-security.md) | Theory and tools | Copy of a third-party list |
 | [Incident response](incident-response.md) | Tools, playbooks and books | Copy of a third-party list |
-| [IoT security](iot-security.md) | Hardware, radio and firmware hacking resources | Copy of a third-party list |
+| [IoT security](iot-security.md) | Hardware, radio and firmware hacking resources. [Introduction](../domains/iot-security.md) | Copy of a third-party list |
 | [Offensive security](offensive-security.md) | Red team resources by ATT&CK stage | Copy of a third-party list |
 | [Threat intelligence](threat-intelligence.md) | Feeds, tools and frameworks | Copy of a third-party list |
-| [Threat modeling](threat-modeling.md) | Methods, books and tools | Copy of a third-party list |
+| [Threat modeling](threat-modeling.md) | Methods, books and tools. [Introduction](../domains/threat-modeling.md) | Copy of a third-party list |
 | [Cloud security](cloud-security.md) | Starting points and practice | Written by AquilaCyber |
 | [Defensive tools](defensive-tools.md) | Free blue team tools by category | Written by AquilaCyber |
 | [Web3 security](web3-security.md) | Smart contract security starting points | Written by AquilaCyber |
