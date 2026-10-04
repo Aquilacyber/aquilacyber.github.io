@@ -1,5 +1,7 @@
 # Security Operations Center (SOC) Analyst
 
+Last reviewed: 2026-10-03
+
 [All roles](README.md)
 
 ## Summary
@@ -39,4 +41,7 @@ Watches alerts in a SIEM and other tools, decides which are real, investigates t
 
 ## Interview Questions
 
-- <https://www.reddit.com/r/AskNetsec/comments/3p2m3i/soc_analyst_interview_questions/>
+- An alert shows many failed logins followed by a success. What do you check?
+- How do you decide whether to escalate an alert?
+- What information belongs in a good incident ticket?
+- What does a SIEM do, and what are its limits?

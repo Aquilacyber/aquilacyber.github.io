@@ -1,5 +1,7 @@
 # Security Engineer (Hardware)
 
+Last reviewed: 2026-10-03
+
 [All roles](README.md)
 
 ## Summary
@@ -25,3 +27,10 @@ Secures devices that contain firmware and hardware, such as IoT products. Works 
 ## Education
 
 - Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering or equivalent experience
+
+## Interview Questions
+
+- How would you threat model a connected device?
+- What can an attacker do with physical access to a device, and how do you reduce the risk?
+- How do you protect firmware updates?
+- What is a secure boot chain?

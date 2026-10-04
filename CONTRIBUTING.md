@@ -1,5 +1,7 @@
 # Contributing
 
+Last reviewed: 2026-10-03
+
 Thank you for helping. The most useful contributions are small: a dead link fixed, an unclear sentence rewritten, an out-of-date fact corrected, one good resource added.
 
 ## Report a problem
@@ -38,10 +40,18 @@ Write the page in your own words. Pages in this repository follow the same patte
 
 Wanted pages:
 
-- Careers: detection engineer, automation engineer, workflow engineer, cloud security engineer, compliance analyst, IT auditor
-- A cloud security track and a digital forensics track
-- Windows and Active Directory basics
+- Careers: security awareness specialist, third-party risk analyst, security product manager
+- Tracks: vulnerability management, mobile security
+- Python for security basics
+- Git and GitHub for your portfolio
+- How to read a CVE and a vendor advisory
 - Notes from your own experience getting a first role in Nigeria
+
+## Review dates
+
+Every page outside `reference/` carries a line near the top that reads `Last reviewed: YYYY-MM-DD`. That date means a person read the page, checked the facts and links that can be checked, and fixed or removed what was out of date. Update the date only when you have actually done that. Do not change it to quiet the check.
+
+`python3 scripts/check_review_dates.py` checks the format. A monthly workflow opens an issue that lists pages not reviewed in the last 365 days.
 
 ## Third-party material
 

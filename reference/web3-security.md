@@ -1,5 +1,7 @@
 # Web3 security
 
+Last reviewed: 2026-10-03
+
 Starting points for smart contract security. This page was written by AquilaCyber. For a much longer list, see [Awesome-web3-Security](https://github.com/Anugrahsr/Awesome-web3-Security) by Anugrahsr.
 
 Web3 security is a specialism. It needs solid programming skills and an understanding of how blockchains work. Get through phase 1 and phase 2 of the [roadmap](../roadmap/README.md) first.

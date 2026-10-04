@@ -1,5 +1,7 @@
 # The roadmap
 
+Last reviewed: 2026-10-03
+
 Four phases, in order. Each one builds on the one before it and ends with a checkpoint you can test yourself against.
 
 | Phase | Page | Time at 8 to 10 hours a week |
@@ -30,7 +32,12 @@ Search the exact error message first. If that fails, ask in the AquilaCyber comm
 ## Supporting pages
 
 - [Lab setup](../guides/lab-setup.md)
+- [Linux basics](../guides/linux-basics.md)
+- [Windows and Active Directory basics](../guides/windows-and-active-directory.md)
+- [Network security basics](../guides/network-security-basics.md)
+- [Templates](../templates/README.md) for write-ups, reports, risk registers and your CV
 - [Ethics and law](../guides/ethics-and-law.md)
 - [Glossary](../guides/glossary.md)
 - [Progress checklist](../guides/progress-checklist.md)
 - [FAQ](../guides/faq.md)
+- [AquilaCyber Defenders Portal](../guides/defenders-portal.md), our free capture the flag platform

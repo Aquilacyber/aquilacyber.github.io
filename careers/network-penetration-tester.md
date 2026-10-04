@@ -1,5 +1,7 @@
 # Network Penetration Tester
 
+Last reviewed: 2026-10-03
+
 [All roles](README.md)
 
 ## Summary
@@ -37,4 +39,7 @@ Tests networks and the machines on them for weaknesses, with permission: open se
 
 ## Interview Questions
 
-- <https://compsecurityconcepts.wordpress.com/2016/02/19/network-penetration-testing-interview-questions-answers/>
+- You are given a /24 range and two days. How do you start?
+- Explain the difference between a SYN scan and a full connect scan.
+- What are common ways to move from one machine to another inside a network?
+- How do you keep a test from disrupting production systems?

@@ -1,11 +1,14 @@
 # Practice labs
 
+Last reviewed: 2026-10-03
+
 Reading about security is not enough. You learn by doing, and you do it on systems you are allowed to attack. Read the [ethics and law guide](../guides/ethics-and-law.md) before you start.
 
 ## Beginner platforms
 
 | Platform | Best for | Notes |
 |---|---|---|
+| [AquilaCyber Defenders Portal](https://ctf.aquilacyber.org/) | Practice with this community | AquilaCyber's own free capture the flag platform with 13 flags. See the [guide](../guides/defenders-portal.md) |
 | [TryHackMe](https://tryhackme.com/) | First guided practice | Short rooms with explanations and a browser-based attacker machine. Limited free use |
 | [OverTheWire](https://overthewire.org/wargames/) | Linux and basic security habits | Wargames played over SSH. Free. Start with Bandit |
 | [picoCTF](https://picoctf.org/) | First CTF | Run by Carnegie Mellon University for students. Free |
@@ -40,7 +43,7 @@ Reading about security is not enough. You learn by doing, and you do it on syste
 
 ## Competitions
 
-[CTFtime](https://ctftime.org/) lists capture the flag events around the world, with their dates and rules. Play with a team if you can. You will learn more from teammates than from any course.
+The [AquilaCyber Defenders Portal](https://ctf.aquilacyber.org/) is a good place to start. [CTFtime](https://ctftime.org/) lists capture the flag events around the world, with their dates and rules. Play with a team if you can. You will learn more from teammates than from any course.
 
 ## How to practise
 

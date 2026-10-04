@@ -1,5 +1,7 @@
 # Web Penetration Tester
 
+Last reviewed: 2026-10-03
+
 [All roles](README.md)
 
 ## Summary
@@ -34,5 +36,7 @@ Tests websites and web applications for weaknesses with the owner's permission a
 
 ## Interview Questions
 
-- <https://www.synopsys.com/blogs/software-security/web-appsec-interview-questions/>
-- <https://medium.com/@techcluesblog/penetration-testing-interview-questions-22842d4d668f>
+- How would you test a password reset function?
+- Explain the difference between stored and reflected cross-site scripting.
+- How would you check whether session tokens are handled safely?
+- How do you write a finding so that a developer can reproduce it?

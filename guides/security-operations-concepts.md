@@ -1,5 +1,7 @@
 # Security operations concepts
 
+Last reviewed: 2026-10-03
+
 The tools a security team uses, what each one does and how they connect. Product names change. The categories stay the same.
 
 ## The tools

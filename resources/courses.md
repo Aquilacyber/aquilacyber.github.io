@@ -1,5 +1,7 @@
 # Courses
 
+Last reviewed: 2026-10-03
+
 Free or mostly free. Pricing and free tiers change, so check each site.
 
 | Name | Best for | Notes |

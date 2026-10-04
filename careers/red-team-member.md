@@ -1,5 +1,7 @@
 # Red Team Member
 
+Last reviewed: 2026-10-03
+
 [All roles](README.md)
 
 ## Summary
@@ -37,8 +39,11 @@ Simulates a real attacker against an organisation to test its defences, includin
 
 ## Interview Questions
 
-- <https://medium.com/@malcomvetter/how-to-pass-a-red-team-interview-9155828cfa1c>
-- <https://github.com/WebBreacher/offensiveinterview>
+- What is the difference between a penetration test and a red team engagement?
+- How do you keep your activity realistic and still stay inside the rules of engagement?
+- Describe how you would plan an engagement that has a single objective.
+- How do you help the blue team learn from the exercise afterwards?
+
 ## Training Resources
 
 - RTFM Book

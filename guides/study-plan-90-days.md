@@ -1,5 +1,7 @@
 # 90-day study plan
 
+Last reviewed: 2026-10-03
+
 A daily schedule for your first three months. It covers phase 1 of the [roadmap](../roadmap/01-foundations.md) and the start of phase 2. It assumes one to two hours a day, six days a week, with one rest day. If you can only manage a few hours a week, spread each block over more days. Finishing the block matters more than finishing it on time.
 
 You will not be job-ready at day 90. You will have a solid base, a lab, a first set of write-ups and a clear idea of which track to pick.
@@ -24,7 +26,7 @@ You will not be job-ready at day 90. You will have a solid base, a lab, a first 
 - Days 8 to 9: HTTP, HTTPS and TLS. Look at a request in your browser's developer tools.
 - Day 10: capture your own traffic in Wireshark and annotate it.
 
-Use [Professor Messer](https://www.professormesser.com/) and the Pre Security path on [TryHackMe](https://tryhackme.com/).
+Use [Professor Messer](https://www.professormesser.com/) and the Pre Security path on [TryHackMe](https://tryhackme.com/). Read the [network security basics](network-security-basics.md) page at the end of the block.
 
 ## Days 11 to 20: Linux
 
@@ -33,7 +35,7 @@ Use [Professor Messer](https://www.professormesser.com/) and the Pre Security pa
 - Days 17 to 18: processes, services, package managers and SSH.
 - Days 19 to 20: finish Bandit to level 15 and write your notes.
 
-Use [OverTheWire Bandit](https://overthewire.org/wargames/bandit/) and [Linux Journey](https://linuxjourney.com/).
+Use the [Linux basics guide](linux-basics.md), [OverTheWire Bandit](https://overthewire.org/wargames/bandit/) and [Linux Journey](https://linuxjourney.com/).
 
 ## Days 21 to 30: security concepts
 
@@ -47,7 +49,7 @@ Use the free Security+ videos on [Professor Messer](https://www.professormesser.
 
 ## Days 31 to 40: Windows and logs
 
-- Days 31 to 33: Windows users, groups, services and the registry.
+- Days 31 to 33: Windows users, groups, services and the registry. Read parts 1 and 2 of the [Windows and Active Directory basics](windows-and-active-directory.md) guide.
 - Days 34 to 36: the Event Viewer. Learn the event IDs for logon success and failure, account creation and process creation.
 - Days 37 to 38: basic PowerShell.
 - Days 39 to 40: read a sample log set and write down what you can tell from it.
@@ -74,7 +76,7 @@ Use the free Security+ videos on [Professor Messer](https://www.professormesser.
 
 ## Days 71 to 80: guided path
 
-Pick one path on TryHackMe and start it. Aim for a third of it. Write up every room you finish. Choose a path matching the track you suspect you like, and be ready to change your mind.
+Pick one path on TryHackMe and start it. Aim for a third of it. Write up every room you finish. Register on the [AquilaCyber Defenders Portal](https://ctf.aquilacyber.org/) and solve a few challenges there too. The [guide](defenders-portal.md) gives an order. Choose a path matching the track you suspect you like, and be ready to change your mind.
 
 ## Days 81 to 90: review and decide
 

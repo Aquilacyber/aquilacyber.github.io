@@ -1,5 +1,7 @@
 # Application Penetration Tester
 
+Last reviewed: 2026-10-03
+
 [All roles](README.md)
 
 ## Summary
@@ -39,9 +41,10 @@ Tests web applications, APIs and mobile or desktop apps for weaknesses with the 
 
 ## Interview Questions
 
-- [Web Application Security Interview Questions](https://www.synopsys.com/blogs/software-security/web-appsec-interview-questions/)
-- [Mobile Testing Interview Questions](https://www.guru99.com/mobile-testing-interview-questions.html)
-- [Network Penetration Testing Interview Questions & Answers](https://compsecurityconcepts.wordpress.com/2016/02/19/network-penetration-testing-interview-questions-answers/)
+- How would you test a login form for weaknesses?
+- Explain how you would find and confirm an insecure direct object reference.
+- What is the difference between an authentication flaw and an authorisation flaw? Give an example of each.
+- A developer says a finding cannot be exploited. How do you respond?
 
 ## Training Resources
 

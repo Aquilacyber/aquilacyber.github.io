@@ -1,5 +1,7 @@
 # Chief Information Security Officer (CISO)
 
+Last reviewed: 2026-10-03
+
 [All roles](README.md)
 
 ## Summary
@@ -42,7 +44,10 @@ Leads an organisation's information security programme. Owns the security strate
 
 ## Interview Questions
 
-- [Top 30 Chief Information Security Officer (CISO) Interview Questions and Answers for 2018](https://securityboulevard.com/2018/12/top-30-chief-information-security-officer-ciso-interview-questions-and-answers-for-2018/)
+- How would you build a security strategy for a company with a small budget?
+- How do you explain a cyber risk to the board without technical language?
+- A major incident starts at 2 a.m. Who do you call, and in what order?
+- How do you decide which risks to accept, reduce, transfer or avoid?
 
 ## Training Resources
 

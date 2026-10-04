@@ -1,5 +1,7 @@
 # Data Privacy Officer
 
+Last reviewed: 2026-10-03
+
 [All roles](README.md)
 
 ## Summary
@@ -34,5 +36,7 @@ Makes sure an organisation handles personal data lawfully. Advises on privacy la
 
 ## Interview Questions
 
-- <http://www.interviewquestionsaz.info/2013/11/data-protection-officer-interview.html>
-- <https://www.mockquestions.com/company/Data+Protection%2C+Inc./>
+- A customer asks for all the data you hold about them. What do you do?
+- A laptop containing customer records is stolen. What are your first steps, and what deadlines apply?
+- When must you carry out a data protection impact assessment?
+- A team wants to send customer data to a vendor abroad. How do you advise them?

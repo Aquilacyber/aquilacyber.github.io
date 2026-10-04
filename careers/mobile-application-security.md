@@ -1,5 +1,7 @@
 # Mobile Application Security
 
+Last reviewed: 2026-10-03
+
 [All roles](README.md)
 
 ## Summary
@@ -31,5 +33,7 @@ Analyses mobile and embedded applications for vulnerabilities and works with dev
 
 ## Interview Questions
 
-- <https://www.wisdomjobs.com/e-university/mobile-security-interview-questions.html>
-- <https://www.guru99.com/mobile-testing-interview-questions.html>
+- Where can a mobile app store data, and which locations are risky?
+- How would you check whether an app validates server certificates properly?
+- What are the main differences between securing an Android app and an iOS app?
+- How do you review the permissions an app asks for?

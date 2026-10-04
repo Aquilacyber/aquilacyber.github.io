@@ -1,5 +1,7 @@
 # SCADA Security Specialist
 
+Last reviewed: 2026-10-03
+
 [All roles](README.md)
 
 ## Summary
@@ -42,5 +44,7 @@ Secures industrial control systems that run power grids, pipelines and factories
 
 ## Interview Questions
 
-- <https://automationforum.in/t/scada-system-interview-questions/4328>
-- <http://aptronnoida.in/iqa/best-scada-interview-questions-answers/>
+- Why is patching harder in industrial environments than in office IT?
+- What are Modbus and DNP3, and which security weakness do they share?
+- How would you separate an industrial network from the corporate network?
+- What does safety mean when you plan a security change on a control system?

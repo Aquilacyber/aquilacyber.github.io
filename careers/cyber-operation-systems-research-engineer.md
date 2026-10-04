@@ -1,5 +1,7 @@
 # Cyber Operation Systems Research Engineer
 
+Last reviewed: 2026-10-03
+
 [All roles](README.md)
 
 ## Summary
@@ -29,3 +31,10 @@ Researches and builds new methods and tools for hard cyber security problems, of
 ## Education
 
 - PhD degree in Computer Science, Physics, Applied Mathematics, Engineering, or a related field preferred
+
+## Interview Questions
+
+- Describe a cybersecurity research problem you would like to work on and how you would approach it.
+- How would you test whether a new detection technique works better than an existing one?
+- How could machine learning help find unusual network behaviour, and where could it fail?
+- How do you document research so that another person can repeat it?

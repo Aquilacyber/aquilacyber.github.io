@@ -1,5 +1,7 @@
 # Nigeria guide
 
+Last reviewed: 2026-10-03
+
 Why security skills are in demand in Nigeria, who sets the rules and what to do about the local constraints. The legal and regulatory facts below were checked in October 2026. Rules change, so read the primary sources linked on this page before you rely on any detail.
 
 ## Why demand is growing
@@ -62,4 +64,4 @@ Entry-level openings in most markets are more common in security operations and 
 
 ## Community
 
-AquilaCyber is the Nigerian community this repository belongs to. See the [community page](community.md).
+AquilaCyber is the community this repository belongs to, with university Defenders chapters including campuses in Nigeria. See the [community page](community.md).

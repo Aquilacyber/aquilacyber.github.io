@@ -1,5 +1,7 @@
 # Chief Security Officer (CSO)
 
+Last reviewed: 2026-10-03
+
 [All roles](README.md)
 
 ## Summary
@@ -49,7 +51,10 @@ The senior executive responsible for security across an organisation. The role o
 
 ## Interview Questions
 
-- [Top 30 Chief Information Security Officer (CISO) Interview Questions and Answers for 2018](https://securityboulevard.com/2018/12/top-30-chief-information-security-officer-ciso-interview-questions-and-answers-for-2018/)
+- How do you organise physical, information and personnel security under one strategy?
+- How do you measure whether the security programme is working?
+- How do you handle a conflict between a security requirement and a business deadline?
+- Describe your approach to crisis and continuity planning.
 
 ## Training Resources
 

@@ -1,5 +1,7 @@
 # Phase 2: Hands-on
 
+Last reviewed: 2026-10-03
+
 **Time:** about 10 weeks at 8 to 10 hours a week.
 
 **Goal:** stop reading and start doing. You will build a small lab, finish one guided learning path and learn to write up what you solve. This phase is where you find out which part of security you enjoy.
@@ -20,13 +22,15 @@ Pick one beginner path on [TryHackMe](https://tryhackme.com/) and finish it. Cho
 
 The platform changes its path names, so look at what is on offer when you start. Finishing matters more than which path you pick. Alongside it:
 
+- Register on the [AquilaCyber Defenders Portal](https://ctf.aquilacyber.org/), AquilaCyber's own free capture the flag platform. The [guide](../guides/defenders-portal.md) lists its ten web labs by difficulty with the topic to study before each one. It is run by this community, so you can ask for help in the same place you learn.
+
 - Finish [OverTheWire Bandit](https://overthewire.org/wargames/bandit/) if you have not already, then start Natas for web basics.
 - Play [picoCTF](https://picoctf.org/), a beginner-friendly capture the flag run by Carnegie Mellon University. Its practice area stays open all year.
 - Work through the apprentice-level labs on the [PortSwigger Web Security Academy](https://portswigger.net/web-security). It is free and it is the best resource for learning how web attacks work.
 
 ## 3. Write up what you solve (every week)
 
-Write a short report for every room, machine or lab you finish. Use this structure:
+Write a short report for every room, machine or lab you finish. Use the [write-up template](../templates/writeup-template.md), which has this structure:
 
 1. **Target and goal.** What was it and what were you trying to do?
 2. **Approach.** What did you try, including what failed?

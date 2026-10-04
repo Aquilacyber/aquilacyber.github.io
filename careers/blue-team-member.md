@@ -1,5 +1,7 @@
 # Blue Team Member
 
+Last reviewed: 2026-10-03
+
 [All roles](README.md)
 
 ## Summary
@@ -44,7 +46,10 @@ Defends an organisation's systems. Watches for attacks, investigates alerts, hel
 
 ## Interview Questions
 
-- [Red Team Thinking vs. Blue Team Interview Questions](https://www.reddit.com/r/AskNetsec/comments/553kvx/interview_questions_red_team_thinking_vs_blue/)
+- Walk through how you would investigate an alert for a suspicious PowerShell command.
+- A user reports that their account was used from another country. Which logs do you check first?
+- How do you tell a false positive from a real attack?
+- What would you do in the first hour of a ransomware incident?
 
 ## Training Resources
 

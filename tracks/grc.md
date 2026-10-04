@@ -1,5 +1,7 @@
 # GRC track
 
+Last reviewed: 2026-10-03
+
 GRC stands for governance, risk and compliance. This track covers the work of deciding which security risks an organisation accepts, writing the rules that manage them, and proving to auditors and regulators that the rules are followed. It includes data protection and privacy.
 
 ## What the work looks like
@@ -40,8 +42,8 @@ In Nigeria this track is growing because of new rules. See the [Nigeria guide](.
 
 ## Two projects
 
-1. **Risk assessment for an invented fintech.** Describe a small company, list its ten most important assets, identify threats, score each risk and propose controls. Present it as a risk register and a two-page summary.
-2. **NDPA gap assessment template.** Build a checklist a small business could use to see where it stands against the Act: data inventory, lawful basis for each use, privacy notice, data subject request handling, breach procedure, vendor contracts and the question of whether it must register with the NDPC. Say clearly that it is an educational tool and not legal advice.
+1. **Risk assessment for an invented fintech.** Describe a small company, list its ten most important assets, identify threats, score each risk and propose controls. Use the [risk register template](../templates/risk-register-template.md) and present it as a risk register and a two-page summary.
+2. **NDPA gap assessment.** Start from the [NDPA gap checklist](../templates/ndpa-gap-checklist.md). Fill it in for an invented small business, then improve the checklist where you found it weak. It should show where the business stands on its data inventory, lawful basis for each use, privacy notice, data subject requests, breach procedure, vendor contracts and whether it must register with the NDPC. Say clearly that it is an educational tool and not legal advice.
 
 ## Certifications worth considering
 
@@ -49,4 +51,4 @@ See the [certifications guide](../guides/certifications.md). Common choices are 
 
 ## Where it leads
 
-[Data Privacy Officer](../careers/data-privacy-officer.md), [Information Security Analyst](../careers/information-security-analyst.md), [Chief Information Security Officer](../careers/chief-information-security-officer.md). Compliance, internal audit and IT audit roles are also common. They are not in the career profiles yet.
+[Compliance Analyst](../careers/compliance-analyst.md), [IT Auditor](../careers/it-auditor.md), [Data Privacy Officer](../careers/data-privacy-officer.md), [Information Security Analyst](../careers/information-security-analyst.md), [Chief Information Security Officer](../careers/chief-information-security-officer.md).

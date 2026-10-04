@@ -1,5 +1,7 @@
 # Source Code Auditor
 
+Last reviewed: 2026-10-03
+
 [All roles](README.md)
 
 ## Summary
@@ -36,4 +38,7 @@ Reads source code to find security flaws before attackers do. Combines manual re
 
 ## Interview Questions
 
-- <https://www.geeksforgeeks.org/tag/secure-coding/>
+- What do you look for first when you open an unfamiliar codebase?
+- How do you follow untrusted input through an application?
+- What are the limits of static analysis tools?
+- How do you write a code finding that a developer can act on?

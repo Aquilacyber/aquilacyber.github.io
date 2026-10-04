@@ -1,5 +1,7 @@
 # Mobile Penetration Tester
 
+Last reviewed: 2026-10-03
+
 [All roles](README.md)
 
 ## Summary
@@ -37,4 +39,7 @@ Tests Android and iOS apps and the services behind them for weaknesses, with per
 
 ## Interview Questions
 
-- <https://www.guru99.com/mobile-testing-interview-questions.html>
+- How do you set up a proxy to inspect traffic from a mobile app?
+- What is certificate pinning, and how does it affect testing?
+- Name three things you would check in an Android application package.
+- How would you report a finding about insecure local storage?

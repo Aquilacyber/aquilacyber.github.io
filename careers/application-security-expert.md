@@ -1,5 +1,7 @@
 # Application Security Expert
 
+Last reviewed: 2026-10-03
+
 [All roles](README.md)
 
 ## Summary
@@ -47,8 +49,10 @@ Works with developers to find and fix security problems in the software a compan
 
 ## Interview Questions
 
-- [Application Security Engineer Interview Questions](https://ishaqmohammed.me/posts/application-security-engineer-interview-questions/)
-- [Application Security Interview Questions](https://www.wisdomjobs.com/e-university/application-security-interview-questions.html)
+- How would you add security checks to a team's pull request process without slowing the team down?
+- Explain the difference between SAST, DAST and software composition analysis.
+- A critical vulnerability is announced in a library your products use. What do you do in the first day?
+- How do you decide which findings a developer must fix before release?
 
 ## Training Resources
 

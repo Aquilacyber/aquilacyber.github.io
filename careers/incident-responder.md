@@ -1,5 +1,7 @@
 # Incident Responder
 
+Last reviewed: 2026-10-03
+
 [All roles](README.md)
 
 ## Summary
@@ -18,7 +20,7 @@ Leads the response when an attack is found: confirms what happened, contains it,
 - Participate in collaborative sessions with other CNDSPs and IC agencies on malicious intrusions, attacks or suspicious activities, as well as share emerging Cyber Threat Intel data.
 - Assist in the development of Indicators of Compromise for active defensive countermeasures and passive detection signatures.
 - Research and produce analysis on nation state cyber threat actors.
-- Utilize internal and open source research for awareness of nation stated targeting, trends, etc.
+- Uses internal and open source research to stay aware of targeting by nation states and of current trends.
 - Develop strategic cyber threat intelligence products in support of network defense operations
 - Position may require evening, weekend or shift-work (depending on operational tempo).
 
@@ -39,5 +41,7 @@ Leads the response when an attack is found: confirms what happened, contains it,
 
 ## Interview Questions
 
-- <https://resources.infosecinstitute.com/top-30-incident-responder-interview-questions-and-answers-for-2019/#gref>
-- <https://medium.com/@aubsec/dfir-interivew-questions-68ec48ea570f>
+- Describe the phases of incident response and what happens in each.
+- You find malware on a server. What do you do before you power anything off?
+- How do you decide when to bring in legal, management or a regulator?
+- What goes into a post-incident report?

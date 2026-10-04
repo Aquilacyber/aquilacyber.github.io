@@ -1,5 +1,7 @@
 # Red team track
 
+Last reviewed: 2026-10-03
+
 Red team work is testing systems for weaknesses, with permission, and reporting what you find so it can be fixed. The words you will see are penetration testing, application security testing and bug bounty hunting.
 
 Everything on this page depends on authorisation. Read the [ethics and law guide](../guides/ethics-and-law.md) before you start and again before you test anything that is not your own lab.
@@ -21,6 +23,7 @@ A penetration tester is hired for a defined scope and time. Most of the engageme
 
 ### Weeks 1 to 4: web applications
 
+- Solve the web labs on the [AquilaCyber Defenders Portal](../guides/defenders-portal.md), then read the [network security basics](../guides/network-security-basics.md) page.
 - Complete the PortSwigger Web Security Academy [learning paths](https://portswigger.net/web-security/all-topics) for SQL injection, cross-site scripting, authentication, access control and server-side request forgery. Go past the apprentice labs into practitioner level.
 - Read the [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/).
 - Install [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) in your lab and attack it.
@@ -38,7 +41,7 @@ A penetration tester is hired for a defined scope and time. Most of the engageme
 
 ## Two projects
 
-1. **A full test report.** Run a complete test against an intentionally vulnerable application in your lab, such as Juice Shop. Produce a professional report: executive summary, scope, method, findings with severity and evidence, and remediation advice.
+1. **A full test report.** Run a complete test against an intentionally vulnerable application in your lab, such as Juice Shop. Use the [penetration test report template](../templates/pentest-report-template.md) and produce a professional report: executive summary, scope, method, findings with severity and evidence, and remediation advice.
 2. **A small tool.** Write a script that does one useful job, for example a port scanner with banner grabbing, a login brute-force detector or a header checker for common security headers. Publish it with a README and a clear warning to use it only on systems you own or have permission to test.
 
 ## Certifications worth considering

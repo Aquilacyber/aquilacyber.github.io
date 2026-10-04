@@ -1,5 +1,7 @@
 # DevSecOps Engineer
 
+Last reviewed: 2026-10-03
+
 [All roles](README.md)
 
 ## Summary
@@ -34,5 +36,7 @@ Builds security into the way software is built and deployed. Adds automated secu
 
 ## Interview Questions
 
-- <https://dzone.com/articles/10-devops-interview-questions-to-gauge-a-candidate>
-- <https://www.simplilearn.com/tutorials/devops-tutorial/devops-interview-questions>
+- How would you add security scanning to a CI pipeline, and when should it block a build?
+- How do you keep secrets out of source code and container images?
+- What does infrastructure as code scanning catch?
+- A scanner produces 500 findings on its first run. How do you start?

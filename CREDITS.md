@@ -1,5 +1,7 @@
 # Credits
 
+Last reviewed: 2026-10-03
+
 This repository contains original AquilaCyber content and a small amount of third-party material. This page lists the third-party material, who made it, how it is licensed and what was changed. Licences were checked against the upstream repositories on 3 October 2026.
 
 Original content is released under [CC BY 4.0](LICENSE).
@@ -38,7 +40,7 @@ If an author adds a licence later, the copy could be restored with the licence t
 These files did not say where they came from. They are kept because they are lists of public links, but they are not claimed as original.
 
 - [reference/free-training/](reference/free-training/): older lists of courses, books, news, podcasts and YouTube channels. `youtube.md` states it was forked from a collection by d4rckh on 29 July 2020.
-- [careers/](careers/): role profiles compiled from public job descriptions. The earlier version also included a career roadmap graphic whose source could not be identified. It was removed.
+- [careers/](careers/): 28 role profiles compiled from public job descriptions. The nine newer profiles, and the interview questions on every profile, are original. The earlier version also included a career roadmap graphic whose source could not be identified. It was removed.
 
 If you are the author of any of this and want it credited differently or taken down, open an issue and it will be handled quickly.
 

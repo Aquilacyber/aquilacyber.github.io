@@ -1,5 +1,7 @@
 # FAQ
 
+Last reviewed: 2026-10-03
+
 ## Do I need a degree?
 
 Not to start learning, and not for every employer. Some employers and some countries' visa and government jobs do ask for one. A degree helps most when you are applying with no other evidence. A public portfolio helps when you have none. Check what the employers you want actually ask for.
@@ -43,6 +45,14 @@ Search the exact error message, read the documentation, then ask in the [communi
 ## How do I stay motivated?
 
 Keep a weekly time budget, finish one thing before you start another, write up what you solve and tell someone your goal. Plan for slow weeks and do not let one bad week end the habit.
+
+## Where can I practise for free?
+
+Start with the [AquilaCyber Defenders Portal](https://ctf.aquilacyber.org/), AquilaCyber's own free capture the flag platform. The [practice labs list](../resources/practice-labs.md) has more, including OverTheWire, picoCTF and the PortSwigger Web Security Academy.
+
+## Where are the templates for write-ups, reports and a CV?
+
+In the [templates folder](../templates/README.md).
 
 ## Where do I find the big lists of tools and resources?
 

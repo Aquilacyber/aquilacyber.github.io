@@ -1,5 +1,7 @@
 # News and podcasts
 
+Last reviewed: 2026-10-03
+
 Ten minutes a day of security news teaches you the vocabulary and shows you how real incidents unfold. You do not need to read everything. Pick two sources and stay with them.
 
 ## News and blogs

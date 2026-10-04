@@ -1,5 +1,7 @@
 # Defensive tools
 
+Last reviewed: 2026-10-03
+
 Free and open source tools used by blue teams, grouped by what they do. This page was written by AquilaCyber. For a far longer list, see [BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools) by A-poc.
 
 Install and try one tool from each group in your lab. See the [security operations concepts](../guides/security-operations-concepts.md) guide for what each category is for.

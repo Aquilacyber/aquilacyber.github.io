@@ -1,5 +1,7 @@
 # Phase 4: Get hired
 
+Last reviewed: 2026-10-03
+
 **Time:** ongoing. Start in week 20 or earlier, while you are still finishing phase 3.
 
 **Goal:** turn what you have learned into interviews.
@@ -17,6 +19,8 @@ A portfolio is a public GitHub repository, or a small site, with three things in
 Keep it tidy. Five good pieces beat thirty unfinished ones. Never publish anything that identifies a real victim, contains real credentials or breaks a platform's rules.
 
 ## 2. Write a one-page CV
+
+Start from the [CV template](../templates/cv-template.md).
 
 - Put your projects above your education if you have no work history in security.
 - For each project, give one line on what you did and one on the result. "Built a Python script that detects SSH brute force attempts in auth logs and tested it against 5,000 simulated events" says more than "interested in cybersecurity".

@@ -1,5 +1,7 @@
 # Lab setup
 
+Last reviewed: 2026-10-03
+
 You need a safe place to practise. This page covers what to run, what hardware you need, what to do if you have no laptop and how to cope with expensive data and unreliable power.
 
 ## What a beginner lab is

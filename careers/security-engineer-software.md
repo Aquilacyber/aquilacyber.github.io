@@ -1,5 +1,7 @@
 # Security Engineer (Software)
 
+Last reviewed: 2026-10-03
+
 [All roles](README.md)
 
 ## Summary
@@ -33,7 +35,11 @@ Builds security into software and infrastructure. Designs and implements control
 
 ## Interview Questions
 
-- <https://github.com/tadwhitaker/Security_Engineer_Interview_Questions>
+- How do you decide where to put security controls in the design of a new service?
+- Explain least privilege with an example from a system you know.
+- How would you review a design for weaknesses before it is built?
+- What would you do about a dependency with a known vulnerability?
+
 ## Training Resources
 
 - <https://devskiller.com/screen-security-engineer/>

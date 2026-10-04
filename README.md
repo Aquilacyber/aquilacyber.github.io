@@ -1,8 +1,12 @@
 # AquilaCyber: Start in Cybersecurity
 
+Last reviewed: 2026-10-03
+
 A free, ordered path from no experience to your first security role. Each phase has a time estimate, a short list of free resources and a checkpoint, so you know when to move on.
 
-AquilaCyber is a Nigerian cybersecurity community. This repository is written with Nigerian learners in mind: low-spec laptops, limited data and local regulation. It works for anyone, anywhere.
+AquilaCyber is a community-driven cybersecurity learning initiative for people across Africa and beyond. This repository is its Intro to Cyber programme. It is written with Nigerian learners in mind: low-spec laptops, limited data and local regulation. It works for anyone, anywhere.
+
+Website: [aquilacyber.org](https://www.aquilacyber.org/)
 
 ## Start here
 
@@ -12,7 +16,7 @@ Open the [roadmap](roadmap/README.md) and begin with phase 1.
 |---|---|---|---|
 | 1. [Foundations](roadmap/01-foundations.md) | Networking, Linux, core security concepts, basic scripting | 6 weeks | You can explain how a web request travels and work in a Linux terminal without help |
 | 2. [Hands-on](roadmap/02-hands-on.md) | Build a lab, finish a guided path, write up what you solve | 10 weeks | You have finished one full guided path and published three write-ups |
-| 3. [Pick a track](roadmap/03-pick-a-track.md) | Blue team, red team or GRC | 12 weeks | You have two portfolio projects in one track |
+| 3. [Pick a track](roadmap/03-pick-a-track.md) | Blue team, red team or GRC, or a specialist track: cloud, forensics, application security or identity | 12 weeks | You have two portfolio projects in one track |
 | 4. [Get hired](roadmap/04-get-hired.md) | Portfolio, CV, certification, applications | Ongoing | You are applying and getting interviews |
 
 Most people need six to nine months at that pace before they apply for entry-level roles. Some need longer. That is normal.
@@ -31,14 +35,19 @@ If you want a day-by-day schedule for the first three months, use the [90-day st
 |---|---|
 | [roadmap/](roadmap/README.md) | The four phases |
 | [tracks/](tracks/README.md) | Plans for blue team, red team and GRC |
-| [guides/](guides/README.md) | Lab setup, ethics, Nigeria, certifications, frameworks, glossary, FAQ, 90-day plan, checklist |
-| [careers/](careers/README.md) | Profiles of 28 security roles |
+| [guides/](guides/README.md) | Lab setup, ethics, Nigeria, Linux, Windows and Active Directory, network security, the Defenders Portal, certifications, frameworks, glossary, FAQ, 90-day plan, checklist |
+| [templates/](templates/README.md) | Write-up, penetration test report, risk register, NDPA gap checklist and CV |
+| [careers/](careers/README.md) | Profiles of 37 security roles |
 | [resources/](resources/README.md) | Short lists of books, courses, news, podcasts, YouTube channels and practice labs |
 | [reference/](reference/README.md) | Large third-party lists kept for lookup. Not part of the beginner path |
 
+## Practise on the AquilaCyber Defenders Portal
+
+AquilaCyber runs its own free capture the flag platform, the [Defenders Portal](https://ctf.aquilacyber.org/). It has ten web security labs and a three-stage investigation. Register for an account on the site and start with the [Defenders Portal guide](guides/defenders-portal.md), which gives a suggested order. Use it alongside the labs in [phase 2](roadmap/02-hands-on.md).
+
 ## Community
 
-Join AquilaCyber through [aquilacyber.org](https://www.aquilacyber.org/). The [community page](guides/community.md) explains how to take part, ask for help and find mentorship.
+Join through [aquilacyber.org](https://www.aquilacyber.org/). The [community page](guides/community.md) lists the WhatsApp community, X and LinkedIn, the Hack It Together mentorship programme and how to ask for help.
 
 ## Contribute
 

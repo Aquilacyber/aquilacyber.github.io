@@ -1,5 +1,7 @@
 # Phase 1: Foundations
 
+Last reviewed: 2026-10-03
+
 **Time:** about 6 weeks at 8 to 10 hours a week.
 
 **Goal:** understand how computers and networks work well enough that security concepts make sense. Most beginners who struggle in phase 2 skipped this one.
@@ -14,6 +16,7 @@ Use:
 - [Professor Messer's Network+ course](https://www.professormesser.com/): free videos. You are using the exam objectives as a syllabus. You do not have to sit the exam.
 - [Cisco Networking Academy](https://www.netacad.com/): free self-paced courses. Check the current list.
 - The Pre Security path on [TryHackMe](https://tryhackme.com/).
+- The [network security basics guide](../guides/network-security-basics.md) once you have the basics. It covers firewalls, segmentation and risky protocols.
 
 Do:
 - Split a /24 network into four /26 subnets on paper, with no calculator.
@@ -24,6 +27,7 @@ Do:
 Learn: files and directories, permissions, users and groups, processes, pipes and redirection, `grep`, `find`, `sed` and `awk` at a basic level, package managers and SSH.
 
 Use:
+- The [Linux basics guide](../guides/linux-basics.md), which ends with a lab and a checkpoint.
 - [OverTheWire Bandit](https://overthewire.org/wargames/bandit/): a game played in a terminal over SSH. It runs from any machine with an SSH client, including a phone.
 - [Linux Journey](https://linuxjourney.com/): short lessons with exercises.
 - [The Linux Command Line](https://linuxcommand.org/tlcl.php) by William Shotts: a free book.
@@ -44,7 +48,7 @@ Do: explain to a friend, in plain words, why a password should be hashed and not
 
 Most organisations run Windows. Learn users and groups, the registry, services, the Event Viewer and basic PowerShell commands.
 
-Use: the Windows Fundamentals rooms on [TryHackMe](https://tryhackme.com/).
+Use: the [Windows and Active Directory basics guide](../guides/windows-and-active-directory.md) and the Windows Fundamentals rooms on [TryHackMe](https://tryhackme.com/). Active Directory can wait until you reach phase 2, but read about it now so the term is familiar.
 
 ## 5. Scripting (weeks 4 to 6)
 
@@ -65,5 +69,6 @@ You are ready for phase 2 when you can do all of these without looking anything 
 - [ ] Move around a Linux system, change file permissions and search the contents of files from the terminal.
 - [ ] Explain the difference between hashing and encryption, and between a threat and a vulnerability.
 - [ ] Write a short Python script that reads a file and prints a summary of it.
+- [ ] Open the Windows Event Viewer and find a logon event for a specific user.
 
 Next: [Phase 2, Hands-on](02-hands-on.md).

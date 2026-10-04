@@ -1,5 +1,7 @@
 # Progress checklist
 
+Last reviewed: 2026-10-03
+
 Copy this file into your own notes or fork the repository and tick items as you go.
 
 ## Phase 1: Foundations
@@ -12,19 +14,23 @@ Copy this file into your own notes or fork the repository and tick items as you 
 - [ ] I can explain hashing versus encryption
 - [ ] I can explain threat, vulnerability and risk
 - [ ] I have written a Python script that reads a file and summarises it
+- [ ] I can find a logon event in the Windows Event Viewer
+- [ ] I can read an `ls -l` line and change permissions with `chmod`
+- [ ] I can explain default deny and why segmentation helps
 
 ## Phase 2: Hands-on
 
 - [ ] I have read the ethics and law guide
 - [ ] My lab runs, and I can rebuild it in under an hour
 - [ ] I have finished one guided learning path
+- [ ] I have registered on the AquilaCyber Defenders Portal and solved my first challenges
 - [ ] I have published three write-ups
 - [ ] I can scan a lab host with Nmap and explain the output
 - [ ] I have solved ten web labs and can explain SQL injection and XSS
 
 ## Phase 3: Track
 
-- [ ] I have chosen a track: blue team, red team or GRC
+- [ ] I have chosen a track: blue team, red team, GRC, or a specialist track
 - [ ] Project 1 is finished and has a README
 - [ ] Project 2 is finished and has a README
 - [ ] I have read five entry-level job descriptions in my track

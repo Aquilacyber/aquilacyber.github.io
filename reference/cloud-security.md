@@ -1,5 +1,7 @@
 # Cloud security
 
+Last reviewed: 2026-10-03
+
 Starting points for securing and testing cloud environments. This page was written by AquilaCyber. For a much longer list, see [awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) by 4ndersonLin.
 
 ## Learn the basics

@@ -1,5 +1,7 @@
 # Ethics and law
 
+Last reviewed: 2026-10-03
+
 Security tools are the same tools criminals use. What separates a professional from a criminal is permission.
 
 This page is general guidance for learners. It is not legal advice. If you are unsure whether something is allowed, do not do it and ask someone qualified.

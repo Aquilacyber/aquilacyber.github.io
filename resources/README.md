@@ -1,5 +1,7 @@
 # Resources
 
+Last reviewed: 2026-10-03
+
 Short, tested lists for beginners. Each list is small on purpose. If you want the big collections, they are in the [reference section](../reference/README.md).
 
 | List | Contents |

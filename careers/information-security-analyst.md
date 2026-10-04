@@ -1,5 +1,7 @@
 # Information Security Analyst
 
+Last reviewed: 2026-10-03
+
 [All roles](README.md)
 
 ## Summary
@@ -35,5 +37,7 @@ Protects an organisation's systems by monitoring for threats, assessing risks, c
 
 ## Interview Questions
 
-- <https://career.guru99.com/top-12-security-information-analyst-interview-questions/>
-- <https://danielmiessler.com/study/infosec_interview_questions/>
+- How do you prioritise a list of vulnerabilities?
+- A user clicked a phishing link. What do you do?
+- How do you check that a security control is actually working?
+- How would you explain the need for multi-factor authentication to a sceptical manager?

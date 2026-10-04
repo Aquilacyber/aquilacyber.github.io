@@ -1,5 +1,7 @@
 # Digital Forensic Analyst
 
+Last reviewed: 2026-10-03
+
 [All roles](README.md)
 
 ## Summary
@@ -38,5 +40,7 @@ Collects, preserves and analyses digital evidence from computers, phones and net
 
 ## Interview Questions
 
-- <https://bitofhex.com/2018/11/07/starting-in-digital-forensics-law-enforcement-edition/>
-- <https://resources.infosecinstitute.com/category/computerforensics/introduction/computer-forensics-interview-questions/#gref>
+- Why do you work on a copy of the evidence and never on the original?
+- How do you prove that an image matches the original disk?
+- Which Windows artefacts show that a program was run?
+- How would you build a timeline from several sources?

@@ -1,5 +1,7 @@
 # Security Researcher
 
+Last reviewed: 2026-10-03
+
 [All roles](README.md)
 
 ## Summary
@@ -30,4 +32,7 @@ Finds new vulnerabilities and attacker techniques and studies how they work, oft
 
 ## Interview Questions
 
-- <https://resources.infosecinstitute.com/top-30-vulnerability-researcher-interview-questions-and-answers-for-2019/#gref>
+- Describe how you would start researching a piece of software you have not seen before.
+- How do you decide when a finding is worth reporting to the vendor?
+- What is coordinated disclosure, and what timeline would you propose?
+- How do you keep notes so that someone else can reproduce your result?

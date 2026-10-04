@@ -1,5 +1,7 @@
 # Bug Bounty Hunter
 
+Last reviewed: 2026-10-03
+
 [All roles](README.md)
 
 ## Summary
@@ -36,7 +38,10 @@ Looks for security flaws in the applications of organisations that run bug bount
 
 ## Interview Questions
 
-- Currently, there are no specific interview questions listed. Conducting research on bug bounty programs and ethical hacking interviews can provide valuable insights.
+- How do you choose a programme and read its scope before you test anything?
+- Describe a vulnerability you found and how you wrote the report.
+- A report is closed as a duplicate. What do you do?
+- What do you do if you come across personal data while testing?
 
 ## Training Resources
 

@@ -7,7 +7,7 @@ on:
 
 jobs:
   internal:
-    name: Links and style
+    name: Links, style and review dates
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -18,3 +18,5 @@ jobs:
         run: python3 scripts/check_links.py
       - name: Check style rules
         run: python3 scripts/check_style.py
+      - name: Check that every page has a valid review date
+        run: python3 scripts/check_review_dates.py --format-only

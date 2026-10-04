@@ -1,5 +1,7 @@
 # Cyber Intelligence Specialist
 
+Last reviewed: 2026-10-03
+
 [All roles](README.md)
 
 ## Summary
@@ -29,7 +31,7 @@ Collects and analyses information about threat actors and their methods, then wr
 
 ## Soft Skills
 
-- Exceptional written and verbal communication skills, crucial for effectively conveying complex technical information.
+- Clear written and spoken communication, so that complex technical findings reach the people who need them.
 - Managing multiple priorities in a fast-paced, deadline-driven environment, demonstrating strong organizational and time management abilities.
 - Navigating ambiguity in rapidly changing business environments, making informed decisions and problem-solving under pressure.
 - Taking ownership, self-motivation, and delivering results independently in highly dynamic and challenging settings.
@@ -45,7 +47,10 @@ Collects and analyses information about threat actors and their methods, then wr
 
 ## Interview Questions
 
-- Explore common interview questions and considerations for Cybersecurity Analyst roles on platforms like [Dice](https://insights.dice.com/2020/04/22/cybersecurity-analyst-interview-questions-4-prep-considerations/).
+- How do you judge whether a source of threat information is reliable?
+- A report gives you a long list of indicators. How do you decide which ones to act on?
+- How would you write a one-page briefing for a non-technical executive?
+- What is the difference between tactical, operational and strategic intelligence?
 
 ## Training Resources
 

@@ -1,5 +1,7 @@
 # Cyber Threat Analyst
 
+Last reviewed: 2026-10-03
+
 [All roles](README.md)
 
 ## Summary
@@ -37,4 +39,7 @@ Studies threat actors and their methods and writes reports that help defenders a
 
 ## Interview Questions
 
-- <https://insights.dice.com/2020/04/22/cybersecurity-analyst-interview-questions-4-prep-considerations/>
+- How would you track a threat actor over several months?
+- Explain the MITRE ATT&CK framework and how you would use it in a report.
+- What is the Pyramid of Pain, and why does it matter?
+- A report claims an attack came from a particular country. How do you treat that claim?

@@ -1,5 +1,7 @@
 # Reference
 
+Last reviewed: 2026-10-03
+
 Large lists and third-party material, kept for lookup. This section is not part of the beginner path. Come here when you have a specific question, such as "which open source tools exist for X".
 
 Do not read these front to back.

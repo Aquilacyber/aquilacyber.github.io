@@ -1,0 +1,47 @@
+name: Pages due for review
+
+# Runs on the first of each month and on demand. It lists pages whose
+# "Last reviewed" date is more than a year old and opens, or updates,
+# one issue with that list. It does not fail pull requests, because an
+# old page is a reminder and not a defect in someone else's change.
+
+on:
+  schedule:
+    - cron: "0 6 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  stale:
+    name: Find stale pages
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: List pages not reviewed in the last 365 days
+        id: stale
+        run: |
+          python3 scripts/check_review_dates.py --max-age 365 --report stale.md || true
+          if [ -s stale.md ]; then
+            echo "found=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "found=false" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Open or update the review issue
+        if: steps.stale.outputs.found == 'true'
+        run: |
+          gh label create stale-pages --description "Pages not reviewed in the last year" --color FBCA04 --force
+          existing=$(gh issue list --label stale-pages --state open --json number --jq '.[0].number')
+          if [ -n "$existing" ]; then
+            gh issue edit "$existing" --body-file stale.md
+          else
+            gh issue create --title "Pages due for review" --label stale-pages --body-file stale.md
+          fi

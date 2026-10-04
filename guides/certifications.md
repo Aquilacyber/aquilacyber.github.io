@@ -1,5 +1,7 @@
 # Certifications
 
+Last reviewed: 2026-10-03
+
 A certification is a receipt for knowledge you already have. It can get your CV past a filter and it can force you to finish a syllabus. It cannot replace being able to do the work.
 
 ## Before you buy
@@ -46,6 +48,20 @@ CEH from EC-Council appears in many job adverts. Its value for learning is debat
 | CISA | ISACA | Audit. Requires work experience |
 | CISM | ISACA | Security management. Requires work experience |
 | CRISC | ISACA | Risk. Requires work experience |
+
+## Application security
+
+| Certification | Issuer | Notes |
+|---|---|---|
+| Burp Suite Certified Practitioner | PortSwigger | Practical web testing exam. Respected and low cost compared with many |
+| CSSLP | ISC2 | Secure software lifecycle. Suits people with development experience |
+
+## Identity and access management
+
+| Certification | Issuer | Notes |
+|---|---|---|
+| SC-300 | Microsoft | Identity and Access Administrator. The usual choice for Microsoft environments |
+| Vendor certifications | Okta, CyberArk, SailPoint and others | Useful once an employer uses the product |
 
 ## Cloud
 

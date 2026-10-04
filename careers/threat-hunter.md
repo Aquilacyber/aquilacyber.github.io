@@ -1,5 +1,7 @@
 # Threat Hunter
 
+Last reviewed: 2026-10-03
+
 [All roles](README.md)
 
 ## Summary
@@ -38,4 +40,7 @@ Searches an organisation's own systems for attackers that automated alerts misse
 
 ## Interview Questions
 
-- <https://resources.infosecinstitute.com/top-31-threat-hunting-interview-questions-and-answers-for-2019/>
+- How do you form a hunting hypothesis?
+- What data would you need to hunt for persistence on Windows machines?
+- How do you turn a successful hunt into a permanent detection?
+- What do you do when a hunt finds nothing?
