@@ -22,6 +22,10 @@ titles_from_headings:
   strip_title: true
   collections: false
 
+# The optional front matter plugin skips files named CONTRIBUTING unless they are listed here.
+include:
+  - CONTRIBUTING.md
+
 exclude:
   - scripts
   - .github
