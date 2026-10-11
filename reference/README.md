@@ -20,14 +20,9 @@ Do not read these front to back. If you are new to a topic, start with its begin
 | [Cloud security](cloud-security.md) | Starting points and practice | Written by AquilaCyber |
 | [Defensive tools](defensive-tools.md) | Free blue team tools by category | Written by AquilaCyber |
 | [Web3 security](web3-security.md) | Smart contract security starting points | Written by AquilaCyber |
-| [Free training archive](free-training/) | Older lists of courses, books, news, podcasts and YouTube channels | Archive of older community lists |
 
 ## Copies and credits
 
 Pages marked "Copy of a third-party list" are copied from public repositories under licences that allow it. Each page opens with a note naming the source, its author and its licence, and the licence texts are in [licenses/](licenses/). Full details are in [CREDITS.md](../CREDITS.md).
 
 AquilaCyber does not maintain these copies. Entries may be out of date, and links may be dead. Prefer the original repository when you need the current version.
-
-## Material that was removed
-
-Earlier versions of this repository held copies of several lists whose original repositories carry no licence. Without a licence, copying is not permitted, so AquilaCyber replaced the copies with short original pages and links to the originals. The originals are named in [CREDITS.md](../CREDITS.md).

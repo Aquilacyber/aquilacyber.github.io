@@ -6,7 +6,7 @@ AquilaCyber is a community-driven cybersecurity learning initiative for people a
 
 ## Join
 
-- Website: [aquilacyber.org](https://www.aquilacyber.org/)
+- Website: [aquilacyber.org](https://www.aquilacyber.org/), including [Get Involved](https://www.aquilacyber.org/get-involved) and [Events](https://www.aquilacyber.org/events)
 - WhatsApp community: use the invite on the website, which is kept current
 - X: [@aquila_cyber](https://x.com/aquila_cyber)
 - LinkedIn: [AquilaCyber](https://ng.linkedin.com/company/aquilacyber)

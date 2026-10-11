@@ -17,11 +17,12 @@ Open an issue and pick the matching template: broken link, wrong or outdated inf
    ```
    python3 scripts/check_links.py
    python3 scripts/check_style.py
+   python3 scripts/check_review_dates.py --format-only
    ```
 
 4. Open a pull request. Say what you changed and why.
 
-Both scripts use only the Python standard library.
+All three scripts use only the Python standard library.
 
 ## Adding a resource
 

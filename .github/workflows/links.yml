@@ -2,6 +2,8 @@ name: External links
 
 # Runs weekly and on demand. It is not part of the pull request checks because
 # external sites go down for reasons that have nothing to do with a change.
+# Third-party copies under reference/ are skipped. Their links are the
+# upstream authors' and are not maintained here.
 
 on:
   schedule:
@@ -23,7 +25,9 @@ jobs:
             --max-retries 2
             --max-concurrency 4
             --accept 200,201,202,203,204,206,403,429
-            --exclude-path reference
-            --exclude-path .github
+            --exclude-path 'reference/(cryptography|endpoint-security|incident-response|iot-security|offensive-security|threat-intelligence|threat-modeling)\.md'
+            --exclude-path '\.github'
+            --exclude 'example\.(com|org|test)'
+            --exclude 'localhost'
             './**/*.md'
           fail: true

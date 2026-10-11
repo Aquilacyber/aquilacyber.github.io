@@ -4,7 +4,7 @@ Last reviewed: 2026-10-03
 
 Profiles of 37 security roles, grouped by the kind of work. Use them after phase 2 to decide what to aim for, and use the [tracks](../tracks/README.md) to plan how to get there.
 
-Twenty-eight of these profiles were compiled from public job descriptions. They describe what employers ask for, which is often more than a first job needs. The nine newer ones (detection engineer, automation engineer, workflow engineer, cloud security engineer, compliance analyst, IT auditor, vulnerability management analyst, security architect and identity and access management analyst) were written for this repository. The interview questions on all 37 pages were written for this repository. Lines such as "minimum three years of experience" describe senior roles. Salary tables from the earlier version of this repository were removed because they were unsourced and not specific to Nigeria.
+Twenty-eight of these profiles were compiled from public job descriptions. They describe what employers ask for, which is often more than a first job needs. The nine newer ones (detection engineer, automation engineer, workflow engineer, cloud security engineer, compliance analyst, IT auditor, vulnerability management analyst, security architect and identity and access management analyst) were written for this repository. The interview questions on all 37 pages were written for this repository. Lines such as "minimum three years of experience" describe senior roles.
 
 ## Good places to start
 

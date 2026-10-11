@@ -14,5 +14,3 @@ Search for these channels by name. Watch to learn what to do, then do it yoursel
 | NetworkChuck | Friendly introductions to networking, Linux and security |
 | David Bombal | Interviews and networking and security tutorials |
 | Computerphile | Clear explanations of computing and cryptography concepts |
-
-A longer list of channels is in the [reference section](../reference/free-training/youtube.md).

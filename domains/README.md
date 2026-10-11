@@ -21,7 +21,7 @@ A **domain** is an area of security, such as cryptography or incident response. 
 | [Cryptography](cryptography.md) | Protecting data with mathematics | Used in every track | [Cryptography](../reference/cryptography.md) |
 | [Threat modeling](threat-modeling.md) | Finding design weaknesses before a system is built | [Application security](../tracks/application-security.md) | [Threat modeling](../reference/threat-modeling.md) |
 | [Incident response](incident-response.md) | Handling an attack while it is happening | [Blue team](../tracks/blue-team.md) | [Incident response](../reference/incident-response.md) |
-| [Digital forensics](digital-forensics.md) | Finding out what happened and proving it | [Digital forensics](../tracks/digital-forensics.md) | [Free training archive](../reference/free-training/README.md) |
+| [Digital forensics](digital-forensics.md) | Finding out what happened and proving it | [Digital forensics](../tracks/digital-forensics.md) | None yet |
 | [Threat intelligence](threat-intelligence.md) | Knowing who attacks you and how | [Blue team](../tracks/blue-team.md) | [Threat intelligence](../reference/threat-intelligence.md) |
 | [Offensive security](offensive-security.md) | Testing systems by attacking them, with permission | [Red team](../tracks/red-team.md) | [Offensive security](../reference/offensive-security.md) |
 | [GRC](grc.md) | Risk, rules, audit and privacy | [GRC](../tracks/grc.md) | [Frameworks and standards](../guides/frameworks-and-standards.md) |

@@ -26,7 +26,7 @@ import sys
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 SKIP_DIRS = {".git", "node_modules", "_site"}
-EXEMPT_PREFIXES = ("reference/free-training/", "reference/licenses/", ".github/")
+EXEMPT_PREFIXES = ("reference/licenses/", ".github/")
 EXEMPT_FILES = {
     "reference/cryptography.md",
     "reference/endpoint-security.md",

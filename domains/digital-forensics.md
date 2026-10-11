@@ -91,4 +91,4 @@ Use only data you own or public training data.
 - The [Windows and Active Directory basics](../guides/windows-and-active-directory.md) guide for the artefacts
 - Roles: [Digital Forensic Analyst](../careers/digital-forensic-analyst.md), [Incident Responder](../careers/incident-responder.md), [Malware Analyst](../careers/malware-analyst.md)
 - Related: [incident response](incident-response.md)
-- Learn more: the 13Cubed channel on YouTube, and the [free training archive](../reference/free-training/README.md)
+- Learn more: the 13Cubed channel on YouTube
