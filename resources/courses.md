@@ -7,6 +7,7 @@ Free or mostly free. Pricing and free tiers change, so check each site.
 | Name | Best for | Notes |
 |---|---|---|
 | [Professor Messer](https://www.professormesser.com/) | Networking and Security+ syllabus | Free video courses that follow the CompTIA exam objectives |
+| [ExamWizardz PBQ practice](https://www.examwizardz.app/pbq-practice) | CompTIA A+ hands-on questions | 30 free performance-based questions for the current A+ exams, graded in the browser with no account. A paid plan adds the full course |
 | [Cisco Networking Academy](https://www.netacad.com/) | Networking and introductory cybersecurity | Free self-paced courses. Check the current list |
 | [CS50](https://cs50.harvard.edu/x/) | Programming from scratch | Free Harvard course. The Python version is the one to take |
 | [TryHackMe](https://tryhackme.com/) | Guided hands-on learning | Paths from beginner level. Free usage is limited and a paid tier adds more |
